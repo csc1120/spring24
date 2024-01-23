@@ -5,6 +5,7 @@ for CSC1120, Data Structures and Graphical Interfaces.
 # Announcements
 
 ## Week 2
+- Sample code in JavaFX lessons on LearnCS will not run correctly there
 - Learning assistants will be available for help 6-7pm Monday - Thursday in DH449
 - Student hours Monday: 7-9am, 10-11am (bonus), 1-2pm (if requested)
 - Student hours Tuesday: 7-9am, 2pm-4pm
