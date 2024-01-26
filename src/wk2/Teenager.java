@@ -23,23 +23,21 @@ public class Teenager extends Application {
         Pane pane = new FlowPane();
         pane.getChildren().addAll(new Label("Please enter your age: "),
         input, response, clear);
-        input.setOnAction(new InputFieldHandler());
+        input.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent actionEvent) {
+                String text = ((TextField) actionEvent.getSource()).getText();
+                int age = Integer.parseInt(text);
+                String not = "";
+                if (age < 13 || age > 19) {
+                    not = "not ";
+                }
+                response.setText("You are " + not + "a teenager.");
+            }
+        });
         clear.setOnAction(this::clearPressed);
         stage.setScene(new Scene(pane, WIDTH, HEIGHT));
         stage.show();
-    }
-
-    private final class InputFieldHandler implements EventHandler<ActionEvent> {
-        @Override
-        public void handle(ActionEvent actionEvent) {
-            String text = ((TextField) actionEvent.getSource()).getText();
-            int age = Integer.parseInt(text);
-            String not = "";
-            if (age < 13 || age > 19) {
-                not = "not ";
-            }
-            response.setText("You are " + not + "a teenager.");
-        }
     }
 
     private void clearPressed(ActionEvent actionEvent) {
