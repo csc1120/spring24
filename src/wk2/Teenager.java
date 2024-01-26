@@ -11,7 +11,7 @@ import javafx.scene.layout.FlowPane;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
-public class Teenager extends Application implements EventHandler<ActionEvent> {
+public class Teenager extends Application {
     private Label response;
     public static final int HEIGHT = 200;
     public static final int WIDTH = 300;
@@ -23,21 +23,23 @@ public class Teenager extends Application implements EventHandler<ActionEvent> {
         Pane pane = new FlowPane();
         pane.getChildren().addAll(new Label("Please enter your age: "),
         input, response, clear);
-        input.setOnAction(this);
+        input.setOnAction(new InputFieldHandler());
         clear.setOnAction(this::clearPressed);
         stage.setScene(new Scene(pane, WIDTH, HEIGHT));
         stage.show();
     }
 
-    @Override
-    public void handle(ActionEvent actionEvent) {
-        String text = ((TextField)actionEvent.getSource()).getText();
-        int age = Integer.parseInt(text);
-        String not = "";
-        if(age<13 || age>19) {
-            not = "not ";
+    private final class InputFieldHandler implements EventHandler<ActionEvent> {
+        @Override
+        public void handle(ActionEvent actionEvent) {
+            String text = ((TextField) actionEvent.getSource()).getText();
+            int age = Integer.parseInt(text);
+            String not = "";
+            if (age < 13 || age > 19) {
+                not = "not ";
+            }
+            response.setText("You are " + not + "a teenager.");
         }
-        response.setText("You are " + not + "a teenager.");
     }
 
     private void clearPressed(ActionEvent actionEvent) {
