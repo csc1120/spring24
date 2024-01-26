@@ -23,7 +23,7 @@ public class Teenager extends Application {
         Pane pane = new FlowPane();
         pane.getChildren().addAll(new Label("Please enter your age: "),
         input, response, clear);
-        input.setOnAction(actionEvent -> handleInputField(actionEvent));
+        input.setOnAction(this::handleInputField);
         clear.setOnAction(this::clearPressed);
         stage.setScene(new Scene(pane, WIDTH, HEIGHT));
         stage.show();
