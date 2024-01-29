@@ -4,6 +4,14 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 # Announcements
 
+## Week 3
+- Problems executing code on LearnCS
+  - Let me know if you see the following error: "Something went wrong. Please get in touch, or try again"
+  - Homework (including resubmissions) will be accepted without penalty until 11pm Monday, 1/29
+- Learning assistants will be available for help 6-7pm Monday - Thursday in DH449 (Sofia on Thursdays)
+- Consider having lunch with me 11:30am - 12:30pm Tuesday
+- Will need to leave at 3:30pm on Tuesday
+
 ## Week 2
 - Sample code in JavaFX lessons on LearnCS will not run correctly there
 - Learning assistants will be available for help 6-7pm Monday - Thursday in DH449

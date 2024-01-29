@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox prefHeight="50" prefWidth="200" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="wk3.BlurController">
+    <children>
+        <Label fx:id="displayText" onSwipeLeft="#toggleBlur" text="This is a label that contains text">
+         <font>
+            <Font size="20.0" />
+         </font></Label>
+        <Button fx:id="toggleButton" onAction="#toggleBlur" text="Blur" />
+    </children>
+</VBox>
