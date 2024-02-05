@@ -4,6 +4,12 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 # Announcements
 
+## Week 4
+- Exam next week
+- Podcast location: https://csse.msoe.us/csc1120/podcast
+- Lunch with students 11:30am - 12:30pm Tuesday
+- Let me know in advance you plan to visit during my 3-4pm student hour on Tuesday
+
 ## Week 3
 - Problems executing code on LearnCS
   - Let me know if you see the following error: "Something went wrong. Please get in touch, or try again"

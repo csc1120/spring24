@@ -1,0 +1,1142 @@
+CSC  1110A121,SoftDevA,,,,,F,8:00,9:50
+MEC  3210 161,Material Sci,,,,R,,8:00,9:50
+COM  1001 004,College Writing,M,,,R,F,8:00,8:50
+NUR  2015 115,Health Assess,M,,,,,8:00,9:50
+NUR  2015 114,Health Assess,M,,,,,8:00,9:50
+CHM  1010 111,Chemistry I,M,,W,,F,8:00,8:50
+MEC  4060 111,FEA,M,,,R,,8:00,8:50
+CHM  1010 112,Chemistry I,M,,W,,F,8:00,8:50
+NUR  2015 113,Health Assess,M,,,,,8:00,9:50
+CSC  1110A121,SoftDevA,M,T,W,R,,9:00,9:50
+NUR  2015 113,Health Assess,,,,,F,9:00,9:50
+NUR  2015 114,Health Assess,,,,,F,9:00,9:50
+NUR  2015 115,Health Assess,,,,,F,9:00,9:50
+PHL  3103 001,Bioethics,M,T,,,F,9:00,9:50
+MEC  3210 161,Material Sci,M,,,,F,9:00,9:50
+COM  1001 006,College Writing,M,,W,,F,9:00,9:50
+CSC  1110 131,Software Dev,,,,,F,10:00,11:50
+MEC  3210 121,Material Sci,,T,,,,10:00,11:50
+MEC  4901 122,Cap Design I,M,,,,,10:00,10:50
+COM  1001 009,College Writing,M,T,,R,,10:00,10:50
+BUS  3890 001,Supply Ch Mgmt,M,T,,R,,10:00,10:50
+BUS  4510 001,Tax Plan & Res.,M,,W,,F,10:00,10:50
+MEC  4810 122,ThermoFluidLab,,,,,F,11:00,12:50
+MEC  3210 121,Material Sci,M,,,,F,11:00,11:50
+MEC  4810 122,ThermoFluidLab,,T,,R,,11:00,11:50
+CSC  1110 131,Software Dev,M,T,,R,,11:00,11:50
+LIT  1020 801,American LitII,,,,,F,12:00,12:50
+MEC  4310 131,Auto Ctrl Sys,,,W,,,12:00,13:50
+LIT  1020 801,American LitII,M,,W,,,12:00,12:50
+CSC  4981 121,TPC Data Mining,,,W,,,13:00,14:50
+MEC  4310 131,Auto Ctrl Sys,,T,,R,,13:00,13:50
+MEC  3310 142,Instr & Measure,,,,,F,13:00,14:50
+CHM  1010 161,Chemistry I,M,,W,,F,13:00,13:50
+MEC  3210 131,Material Sci,M,,,,F,13:00,13:50
+CHM  1010 162,Chemistry I,M,,W,,F,13:00,13:50
+MEC  3210 131,Material Sci,,T,,,,13:00,14:50
+MEC  3310 142,Instr & Measure,M,,,R,,14:00,14:50
+CSC  4981 121,TPC Data Mining,M,,,R,,14:00,14:50
+MEC  3310 151,Instr & Measure,,,W,,,15:00,16:50
+MEC  1602 186,IntrSldMdl&Dsgn,,,,R,,15:00,16:50
+MEC  3310 151,Instr & Measure,M,,,,F,15:00,15:50
+MEC  1602 185,IntrSldMdl&Dsgn,,T,,,,15:00,16:50
+COM  1001 025,College Writing,M,,W,,F,15:00,15:50
+MEC  1602 181,IntrSldMdl&Dsgn,,,,R,,15:00,16:50
+MEC  3120 006,Fluid Mechanics,M,,W,,F,15:00,15:50
+MEC  1602 181,IntrSldMdl&Dsgn,M,,,,F,15:00,15:50
+MEC  1602 185,IntrSldMdl&Dsgn,M,,,,F,15:00,15:50
+MEC  1602 186,IntrSldMdl&Dsgn,M,,,,F,15:00,15:50
+MTH  1080 010,Precalculus,,T,W,R,F,15:00,15:50
+BUS  2710 002,Database Mgmt,M,,W,,F,16:00,16:50
+PSC  2016 001,Urban Studies,M,T,,,F,16:00,16:50
+MEC  6882 001,Gas Dynamics,M,,,,,16:00,16:50
+LIT  1020 802,American LitII,,,,,F,16:00,16:50
+LIT  1020 802,American LitII,,T,W,,,16:00,16:50
+MEC  6882 001,Gas Dynamics,,,W,,,16:00,17:50
+MEC  1602 195,IntrSldMdl&Dsgn,,T,,R,,17:00,17:50
+CHM  1010 198,Chemistry I,,T,,R,,17:00,18:15
+BUS  4630 001,Proc & Pipeline,,T,,R,,17:00,18:15
+MEC  1602 196,IntrSldMdl&Dsgn,,T,,R,,17:00,17:50
+BUS  4660 001,Digital Mktg,M,,W,,,17:00,18:15
+CVE  4901 121,CVE Capstone I,,T,W,R,,10:00,11:50
+COM  1001 003,College Writing,,T,,R,F,8:00,8:50
+BIE  4100 001,Synbio-MetaboEn,,T,,R,F,9:00,9:50
+COM  1001 040,College Writing,M,T,,R,,10:00,10:50
+MEC  4901 119,Cap Design I,,,W,,F,10:00,10:50
+UXD  2010 001,Inclusive Desgn,M,,W,R,,11:00,11:50
+COM  1001 014,College Writing,M,,W,,F,12:00,12:50
+GER  1001 111,Elemtry German,,,,R,,13:00,14:50
+GER  1001 111,Elemtry German,,T,,,F,13:00,13:50
+NUR  4001 002,NCLEX Success,M,,,,,13:00,15:50
+GER  3001 111,Advanced German,,,W,,,15:00,16:50
+GER  3001 111,Advanced German,,T,,R,,15:00,15:50
+CVE  2852 111,IntroGIS,M,,,,,17:00,17:50
+CAE  2411 141,Therm. Sciences,,T,,R,,17:00,18:50
+CON  4021 001,ConstFinAcc,M,,,,,18:00,20:50
+NUR  2015 111,Health Assess,M,,,,,8:00,9:50
+NUR  2015 112,Health Assess,M,,,,,8:00,9:50
+NUR  2015 112,Health Assess,,,,,F,9:00,9:50
+NUR  2015 111,Health Assess,,,,,F,9:00,9:50
+TCM  2010 801,Interper Com,,T,,R,,9:00,9:50
+COM  1001 801,College Writing,,T,,R,,10:00,10:50
+MTH  2980T001,QCalcIII,M,,W,,F,11:00,11:50
+COM  1001 015,College Writing,M,,W,,F,12:00,12:50
+COM  1001 020,College Writing,M,,W,,F,13:00,13:50
+MEC  3310 152,Instr & Measure,M,,,,F,15:00,15:50
+PSY  2003 001,Org Psych,M,T,,R,,16:00,16:50
+NUR  4020 111,High Acu Health,,T,,,,8:00,9:50
+NUR  4020 114,High Acu Health,,T,,,,8:00,9:50
+NUR  4020 112,High Acu Health,,T,,,,8:00,9:50
+NUR  4020 113,High Acu Health,,T,,,,8:00,9:50
+NUR  4020 112,High Acu Health,M,,,,,9:00,9:50
+NUR  4020 113,High Acu Health,M,,,,,9:00,9:50
+NUR  4020 111,High Acu Health,M,,,,,9:00,9:50
+NUR  4020 114,High Acu Health,M,,,,,9:00,9:50
+NUR  2003 001,Pathophysiology,M,,,R,,10:00,11:50
+COM  1001 016,College Writing,M,,W,,F,12:00,12:50
+NUR  4904 001,Nur Res Part II,,,,,F,13:00,13:50
+NUR  2003 001,Pathophysiology,M,,,,,13:00,13:50
+CON  4051 111,ConProjMgmt2,,T,W,,,13:00,13:50
+NUR  4901 001,Research EBP,,,,,F,13:00,13:50
+NUR  2004 001,Pharmacology,,,,,F,14:00,15:50
+NUR  4901 001,Research EBP,M,,,,,14:00,15:50
+NUR  4904 001,Nur Res Part II,M,,,,,14:00,15:50
+NUR  2004 001,Pharmacology,,,,R,,15:00,16:50
+ARE  5431 001,DistEngMechSys,M,,,,,16:00,18:50
+CAE  6512 001,StabilityStr,,T,,R,,18:00,19:15
+PHL  3101 001,Ethics Eng/Mngr,M,,W,,F,8:00,8:50
+NUR  3010 112,Epi Heal Challe,,T,,,F,10:00,11:50
+NUR  3010 113,Epi Heal Challe,,T,,,F,10:00,11:50
+NUR  3010 114,Epi Heal Challe,,T,,,F,10:00,11:50
+NUR  4902 111,Nurse as Leader,M,,,,,10:00,11:50
+NUR  3010 111,Epi Heal Challe,,T,,,F,10:00,11:50
+CON  5011 001,LeanConst,M,,,,,13:00,13:50
+NUR  4901 002,Research EBP,,,,,F,13:00,13:50
+NUR  4901 002,Research EBP,,T,,,,13:00,14:50
+CON  5011 001,LeanConst,,,,R,,13:00,14:50
+CVE  5811 001,AppStatsModelng,,,W,,F,14:00,15:15
+ARE  5161 001,DesPowerSysII,,T,,R,,15:00,16:15
+NUR  3000 801,Transcultur Fam,M,,,,,15:00,16:50
+NUR  3001 801,Transcultural,M,,,,,15:00,16:50
+PSY  1001 002,Found Psych,M,,W,,,17:00,18:15
+PSY  2003 002,Org Psych,,T,,R,,17:00,18:15
+NUR  3020 111,Chronic Health,M,,,,,10:00,10:50
+NUR  4030 111,Practice Syn.,,T,,,,10:00,10:50
+NUR  4030 131,Practice Syn.,,T,,,,10:00,10:50
+NUR  3020 111,Chronic Health,,T,,,,10:00,11:50
+NUR  4030 121,Practice Syn.,,T,,,,10:00,10:50
+UXD  3010 001,UX Research,M,T,,R,,10:00,10:50
+UXD  4901 001,UX Senior Dsgn,,T,,,,14:00,14:50
+UXD  3010 002,UX Research,M,T,,R,,15:00,15:50
+CHM  1050 111,Chem for LS I,M,T,W,,,8:00,8:50
+CHM  1050 112,Chem for LS I,M,T,W,,,8:00,8:50
+BIE  3420 001,Thermodynmcs II,,T,,R,F,9:00,9:50
+BIE  3520 001,Transprt Phn II,M,T,,,F,10:00,10:50
+BIE  4901 114,SeniorDesignI,M,,,,F,11:00,11:50
+BIE  4901 113,SeniorDesignI,M,,,,F,11:00,11:50
+BIE  4901 112,SeniorDesignI,M,,,,F,11:00,11:50
+BIE  2010 001,Soph Seminar,,T,,,,11:00,11:50
+BIE  4901 111,SeniorDesignI,M,,,,F,11:00,11:50
+BIE  4901 115,SeniorDesignI,M,,,,F,11:00,11:50
+CON  4051 111,ConProjMgmt2,,,,,F,12:00,13:50
+BIE  2100 112,Biotechnology,M,T,,R,,13:00,13:50
+BIE  2100 111,Biotechnology,M,T,,R,,13:00,13:50
+BIE  4500 113,Proc Engg Lab,M,,,,,14:00,14:50
+BIE  4500 112,Proc Engg Lab,M,,,,,14:00,14:50
+BIE  4500 111,Proc Engg Lab,M,,,,,14:00,14:50
+CAE  5980 001,Topics--Civ/Arc,,T,,,,14:00,15:50
+BIE  4020 001,Senior Seminar,M,,,,,15:00,15:50
+CAE  5980 001,Topics--Civ/Arc,,,,R,,15:00,15:50
+BIO  1110 132,Cell Bio & Gen,M,T,,,F,16:00,16:50
+BIO  1110 131,Cell Bio & Gen,M,T,,,F,16:00,16:50
+ARE  5871 001,Commissioning,,,W,,,16:00,18:50
+CHM  1010 197,Chemistry I,,T,,R,,17:00,18:15
+CAE  6511 001,StructDynamics,M,,,,,18:00,20:50
+CHM  1010 142,Chemistry I,,,W,,,8:00,9:50
+CHM  1010 121,Chemistry I,,,,R,,8:00,9:50
+CHM  1010 141,Chemistry I,,T,,,,8:00,9:50
+CHM  1010 122,Chemistry I,,,,,F,8:00,9:50
+CHM  2310 111,Biochem,,,,R,,10:00,11:50
+CHM  2310 112,Biochem,,,,,F,10:00,11:50
+CHM  1010 152,Chemistry I,,,W,,,10:00,11:50
+CHM  1010 151,Chemistry I,,T,,,,10:00,11:50
+CHM  1010 176,Chemistry I,,,W,,,13:00,14:50
+CHM  1010 175,Chemistry I,,T,,,,13:00,14:50
+CHM  1010 165,Chemistry I,,,,R,,13:00,14:50
+CHM  1010 166,Chemistry I,,,,,F,13:00,14:50
+CHM  1010 186,Chemistry I,,,W,,,15:00,16:50
+CHM  1010 191,Chemistry I,,,,R,,15:00,16:50
+CHM  1010 192,Chemistry I,,,,,F,15:00,16:50
+CHM  1010 185,Chemistry I,,T,,,,15:00,16:50
+CHM  1010 131,Chemistry I,,T,,,,8:00,9:50
+CHM  1050 111,Chem for LS I,,,,R,,8:00,9:50
+CHM  1010A111,Chemistry I,,,W,,,8:00,9:50
+CHM  1010 113,Chemistry I,,,W,,,8:00,9:50
+CHM  1050 112,Chem for LS I,,,,,F,8:00,9:50
+CHM  1010 155,Chemistry I,,,,R,,10:00,11:50
+CHM  1010A112,Chemistry I,,,W,,,10:00,11:50
+CHM  1010 132,Chemistry I,,T,,,,10:00,11:50
+CHM  1010 156,Chemistry I,,,,,F,10:00,11:50
+CHM  1010 114,Chemistry I,,,W,,,10:00,11:50
+CHM  1010 182,Chemistry I,,,,,F,13:00,14:50
+CHM  1010 181,Chemistry I,,,,R,,13:00,14:50
+CHM  1010A121,Chemistry I,,,W,,,13:00,14:50
+CHM  1010 171,Chemistry I,,T,,,,13:00,14:50
+CHM  1010 123,Chemistry I,,,W,,,13:00,14:50
+CHM  1010 195,Chemistry I,,,,R,,15:00,16:50
+CHM  1010 172,Chemistry I,,T,,,,15:00,16:50
+CHM  1010 124,Chemistry I,,,W,,,15:00,16:50
+CHM  1010A122,Chemistry I,,,W,,,15:00,16:50
+NUR  4010 112,Supportive Care,M,,,,,8:00,9:50
+NUR  4010 111,Supportive Care,M,,,,,8:00,9:50
+NUR  4010 114,Supportive Care,M,,,,,8:00,9:50
+NUR  4010 113,Supportive Care,M,,,,,8:00,9:50
+NUR  4010 115,Supportive Care,M,,,,,8:00,9:50
+NUR  4010 116,Supportive Care,M,,,,,8:00,9:50
+NUR  4010 117,Supportive Care,M,,,,,8:00,9:50
+NUR  4010 116,Supportive Care,,,,,F,9:00,9:50
+NUR  4010 111,Supportive Care,,,,,F,9:00,9:50
+NUR  4010 113,Supportive Care,,,,,F,9:00,9:50
+NUR  4010 117,Supportive Care,,,,,F,9:00,9:50
+NUR  4010 114,Supportive Care,,,,,F,9:00,9:50
+NUR  4010 115,Supportive Care,,,,,F,9:00,9:50
+NUR  4010 112,Supportive Care,,,,,F,9:00,9:50
+NUR  4020 125,High Acu Health,,T,,,,10:00,11:50
+NUR  4020 122,High Acu Health,,T,,,,10:00,11:50
+NUR  4020 121,High Acu Health,,T,,,,10:00,11:50
+NUR  4020 123,High Acu Health,,T,,,,10:00,11:50
+NUR  4020 126,High Acu Health,,T,,,,10:00,11:50
+NUR  4020 127,High Acu Health,,T,,,,10:00,11:50
+NUR  4020 124,High Acu Health,,T,,,,10:00,11:50
+NUR  4020 123,High Acu Health,M,,,,,11:00,11:50
+NUR  4020 124,High Acu Health,M,,,,,11:00,11:50
+NUR  4020 127,High Acu Health,M,,,,,11:00,11:50
+NUR  4020 125,High Acu Health,M,,,,,11:00,11:50
+NUR  4020 126,High Acu Health,M,,,,,11:00,11:50
+NUR  4020 121,High Acu Health,M,,,,,11:00,11:50
+NUR  4020 122,High Acu Health,M,,,,,11:00,11:50
+TCM  3020 002,Advance Presen,M,,W,,F,12:00,12:50
+BME  2310 131,BME Embedded,M,,,,F,13:00,13:50
+COM  1001 024,College Writing,M,T,,,F,14:00,14:50
+BIO  1110 111,Cell Bio & Gen,,T,,,,9:00,10:50
+BIE  2100 111,Biotechnology,,,,R,,10:00,11:50
+BIO  1110 112,Cell Bio & Gen,,,,,F,12:00,13:50
+BIE  2100 112,Biotechnology,,,W,,,12:00,13:50
+BIO  1110 121,Cell Bio & Gen,,,,R,,13:00,14:50
+BIO  1110 132,Cell Bio & Gen,,,,R,,15:00,16:50
+BIO  1110 131,Cell Bio & Gen,,,W,,,15:00,16:50
+BIE  4901 112,SeniorDesignI,,,W,,,9:00,11:50
+BIE  4901 111,SeniorDesignI,,,W,,,9:00,11:50
+BIE  4500 112,Proc Engg Lab,,,W,,,13:00,16:50
+BIE  4500 111,Proc Engg Lab,,T,,,,13:00,16:50
+BIE  4500 113,Proc Engg Lab,,,,R,,13:00,16:50
+BIE  4901 115,SeniorDesignI,,,W,,,9:00,11:50
+BIE  4901 114,SeniorDesignI,,,W,,,9:00,11:50
+BIE  4901 113,SeniorDesignI,,,W,,,9:00,11:50
+CAE  1811 111,1st Year Design,,,W,,,8:00,9:50
+CAE  1811 111,1st Year Design,,T,,R,,8:00,8:50
+ARE  2852 111,BIM,,T,,,,9:00,9:50
+CAE  1811 131,1st Year Design,,,W,,,10:00,11:50
+CAE  1811 121,1st Year Design,,,,R,,10:00,11:50
+CAE  1811 121,1st Year Design,,T,,,F,10:00,10:50
+CAE  1811 131,1st Year Design,M,,,,F,11:00,11:50
+ARE  2852 121,BIM,,,,R,,13:00,14:50
+CAE  1811 141,1st Year Design,,,W,,,13:00,14:50
+ARE  2852 121,BIM,,T,,,,13:00,13:50
+CAE  1811 141,1st Year Design,M,,,,F,14:00,14:50
+CAE  1811 151,1st Year Design,M,,,,F,15:00,15:50
+CAE  1811 151,1st Year Design,,,W,,,15:00,16:50
+ARE  5141 001,DistEngElecSys,M,,,,,16:00,18:50
+CVE  5201 001,EnvWaterLaw,,T,,,,18:00,20:50
+NUR  2001 001,Patho / Pharm I,M,T,,,,10:00,11:50
+NUR  1000 001,Intro Prof Nurs,,,,,F,11:00,12:50
+NUR  2001 001,Patho / Pharm I,,,,R,,11:00,11:50
+CAE  4811 001,Real Est. Econ.,M,,,,,13:00,13:50
+NUR  1000 001,Intro Prof Nurs,,,,R,,13:00,13:50
+NUR  1000 002,Intro Prof Nurs,,,W,,,13:00,14:50
+CON  3021 111,Const. Est.,,T,,,F,13:00,13:50
+CON  3001 121,PrincConstPM,M,,,,F,14:00,14:50
+NUR  1000 002,Intro Prof Nurs,,T,,,,14:00,14:50
+NUR  2000 801,Nutr in Health,M,,,,,15:00,16:50
+CVE  6202 001,EnvMgmtRskCtrl,M,,,,,17:00,19:50
+ARE  3101 001,Princ.Elec.Eng.,M,,W,,F,8:00,8:50
+CAE  1851 121,Intro. Graphics,,,,R,,9:00,11:50
+CAE  1851 111,Intro. Graphics,,T,,,,9:00,11:50
+CAE  1851 131,Intro. Graphics,,,W,,,10:00,11:50
+CAE  2511 121,Statics,M,,,,F,10:00,10:50
+CAE  1851 131,Intro. Graphics,M,,,,,11:00,11:50
+CAE  1851 141,Intro. Graphics,,T,,,,13:00,13:50
+CAE  1851 141,Intro. Graphics,,,,R,,13:00,14:50
+ARE  3401 002,Princ.Mech.Engr,M,T,,R,,15:00,15:50
+CAE  1851 151,Intro. Graphics,M,,,,,16:00,18:50
+MTH  1120 001,Calculus II,M,T,,R,F,8:00,8:50
+MTH  1120 002,Calculus II,M,T,,R,F,9:00,9:50
+PHL  3101 002,Ethics Eng/Mngr,M,,W,,F,10:00,10:50
+CAE  2511 131,Statics,M,,,,F,11:00,11:50
+HST  2015 001,20th Cen Am His,M,,W,,F,12:00,12:50
+BIO  1110 111,Cell Bio & Gen,M,T,,R,,13:00,13:50
+BIO  1110 112,Cell Bio & Gen,M,T,,R,,13:00,13:50
+MTH  1080 009,Precalculus,,T,W,R,F,14:00,14:50
+MTH  1080 007,Precalculus,,T,W,R,F,15:00,15:50
+CON  2071 001,Const. Safety,M,,,,,15:00,16:50
+CAE  3501 004,Princ.Str.Eng.,,T,,R,,16:00,17:15
+CHM  1010 122,Chemistry I,M,T,W,,,8:00,8:50
+CHM  1010 121,Chemistry I,M,T,W,,,8:00,8:50
+PHY  1120 122,Physics II E&M,M,T,,R,,9:00,9:50
+PHY  1120 121,Physics II E&M,M,T,,R,,9:00,9:50
+CHM  1010 156,Chemistry I,M,T,W,,,10:00,10:50
+CHM  1010 155,Chemistry I,M,T,W,,,10:00,10:50
+CVE  3811 001,PrincSiteDev,,,W,,F,11:00,12:15
+RSC  0100 001,Str Int St Suc,M,,,,,12:00,12:50
+CAE  2411 131,Therm. Sciences,,,,R,,13:00,14:50
+CVE  3201 001,PrincEnvEng,M,,W,,F,13:00,13:50
+HST  2014 002,Hst of US Fair,M,T,,,F,14:00,14:50
+FNA  2002 001,Drama Theater,M,T,,,F,8:00,8:50
+SPN  3001 111,Advanced Spanis,M,,,,F,9:00,9:50
+CON  3001 111,PrincConstPM,,,W,,,9:00,10:50
+CON  3001 111,PrincConstPM,M,,,,F,10:00,10:50
+CAE  2511 131,Statics,,,,R,,10:00,11:50
+PHL  3101 003,Ethics Eng/Mngr,,T,W,,F,11:00,11:50
+PHL  3101 005,Ethics Eng/Mngr,M,,W,,F,12:00,12:50
+PHL  3102 002,Ethics of AI,M,T,,,F,13:00,13:50
+CAE  2411 121,Therm. Sciences,,,,R,,13:00,14:50
+HST  2022 001,German History,M,T,W,,,14:00,14:50
+CHM  1010 195,Chemistry I,M,,W,,F,15:00,15:50
+CAE  2511 141,Statics,M,,W,,,16:00,17:50
+CON  3001 141,PrincConstPM,,T,,R,,17:00,18:50
+CVE  2852 111,IntroGIS,M,,,,,18:00,19:50
+NUR  2002 001,Patho/Pharm II,M,,,,F,8:00,9:50
+CON  3011 111,BldgMechElecCM,,T,,R,,8:00,9:50
+CAE  2511 121,Statics,,,W,,,10:00,11:50
+CVE  3601 001,PrincTranspoEng,M,T,,R,,10:00,10:50
+CAE  3501 001,Princ.Str.Eng.,,T,,R,F,11:00,11:50
+COM  3001 001,Pro Present,M,,W,,F,12:00,12:50
+NUR  4001 001,NCLEX Success,M,,,,,13:00,15:50
+ARE  3101 002,Princ.Elec.Eng.,,T,,R,F,13:00,13:50
+CON  3001 121,PrincConstPM,,,W,,,14:00,15:50
+CPE  4610 111,Embedded Fab,,T,,,F,14:00,14:50
+CVE  5611 001,TrafficAnaly,M,,W,,,16:00,17:15
+CVE  2851 121,Intro. Civil 3D,,T,,,,16:00,16:50
+CON  2011 111,Surveying,,T,,,,8:00,9:50
+CON  2011 112,Surveying,,,,R,,8:00,9:50
+CON  2011 113,Surveying,,,W,,,13:00,14:50
+CON  2011 114,Surveying,,T,,,,14:00,15:50
+CVE  3701 111,PrincWtrResEng,,,W,,,8:00,9:50
+CVE  3701 112,PrincWtrResEng,,,,,F,8:00,9:50
+CVE  3701 121,PrincWtrResEng,,T,,,,14:00,15:50
+CVE  3701 122,PrincWtrResEng,,,,,F,14:00,15:50
+CVE  5222 001,EnvMicrobiology,,T,,R,,16:00,17:15
+PHY  1120 111,Physics II E&M,M,,W,,F,8:00,8:50
+PHY  1120 112,Physics II E&M,M,,W,,F,8:00,8:50
+ARE  3401 001,Princ.Mech.Engr,,T,,R,F,9:00,9:50
+MTH  1080 005,Precalculus,M,T,W,R,,10:00,10:50
+NUR  3100 001,ECG Interp,,,,,F,10:00,11:50
+COM  1001 011,College Writing,M,,W,R,,11:00,11:50
+PSY  2006 001,Dth Dying Grf,M,,W,,F,12:00,12:50
+PSY  3002 002,Psych Disorder,,T,,R,F,13:00,13:50
+CAE  4811 001,Real Est. Econ.,,,W,,,13:00,14:50
+COM  1001 023,College Writing,M,T,,R,,14:00,14:50
+COM  2001 002,STEM Writing,M,,W,R,,15:00,15:50
+COM  1001 029,College Writing,M,,W,,F,16:00,16:50
+CON  3001 131,PrincConstPM,M,,W,,,17:00,18:50
+MEC  3310 112,Instr & Measure,M,,,,F,8:00,8:50
+MEC  3310 111,Instr & Measure,M,,,,F,8:00,8:50
+NUR  3005 801,Older Adults,,T,,,,8:00,9:50
+MTH  2980T002,QCalcIII,M,,W,,F,10:00,10:50
+CAE  2411 111,Therm. Sciences,,T,,R,,10:00,11:50
+CAE  3501 002,Princ.Str.Eng.,M,,W,,,11:00,12:15
+COM  1001 019,College Writing,,T,,R,F,13:00,13:50
+COM  1001 022,College Writing,M,T,,,F,14:00,14:50
+CVE  3701 121,PrincWtrResEng,M,,,R,,15:00,15:50
+CVE  3701 122,PrincWtrResEng,M,,,R,,15:00,15:50
+CVE  2851 111,Intro. Civil 3D,M,,,,,16:00,18:50
+CVE  4901 111,CVE Capstone I,,T,W,R,,10:00,11:50
+MTH  2340 001,Linear Algebra,M,T,,R,,8:00,8:50
+BIE  1000 001,Intro to CBE,M,,,R,F,9:00,9:50
+BIO  1410 111,A&P I,,,,,F,10:00,11:50
+BIO  1410 112,A&P I,,,,,F,10:00,11:50
+MTH  2130 002,Calculus III,M,T,W,R,,10:00,10:50
+BIO  1410 112,A&P I,M,T,,,,11:00,11:50
+BIO  1410 111,A&P I,M,T,,,,11:00,11:50
+PHL  3101 004,Ethics Eng/Mngr,M,,W,,F,12:00,12:50
+NUR  2010 111,Health Assess,M,,,,,13:00,14:50
+NUR  2010 112,Health Assess,,T,,,,13:00,13:50
+NUR  2010 111,Health Assess,,T,,,,13:00,13:50
+NUR  2010 114,Health Assess,M,,,,,13:00,14:50
+NUR  2010 113,Health Assess,,T,,,,13:00,13:50
+NUR  2010 113,Health Assess,M,,,,,13:00,14:50
+NUR  2010 115,Health Assess,,T,,,,13:00,13:50
+NUR  2010 115,Health Assess,M,,,,,13:00,14:50
+NUR  2010 114,Health Assess,,T,,,,13:00,13:50
+NUR  2010 112,Health Assess,M,,,,,13:00,14:50
+HST  2022 002,German History,M,T,,,F,16:00,16:50
+CVE  3301 112,PrincGeotechEng,M,T,,,,8:00,8:50
+CVE  3301 111,PrincGeotechEng,M,T,,,,8:00,8:50
+CAE  2511 111,Statics,,,W,,F,8:00,9:50
+ARE  2852 111,BIM,,,,R,,8:00,9:50
+CVE  3701 111,PrincWtrResEng,M,T,,,,9:00,9:50
+CVE  3701 112,PrincWtrResEng,M,T,,,,9:00,9:50
+MEC  3120 003,Fluid Mechanics,M,,W,,F,10:00,10:50
+ANT  1001 001,Cultural Anthro,M,,W,,F,11:00,11:50
+HST  2031 001,World War II,M,,W,,F,12:00,12:50
+CON  3021 111,Const. Est.,,,,R,,13:00,14:50
+CAE  2411 121,Therm. Sciences,M,,,,F,13:00,13:50
+CAE  2411 131,Therm. Sciences,,T,,,F,14:00,14:50
+CAE  7810 001,ResearchWriting,M,,,,,14:00,15:50
+CVE  2851 121,Intro. Civil 3D,,,,R,,16:00,17:50
+CAE  5511 001,AnalyMatrixMthd,M,,W,,F,16:00,16:50
+ARE  5421 111,DesBldgCtrlSys,,T,,,,17:00,18:50
+CAE  5561 001,DesSteelStrII,,,W,,,18:00,20:50
+CON  4901 111,CON Capstone I,,T,W,R,,10:00,11:50
+ARE  4901 111,ARE Capstone I,,T,W,R,,10:00,11:50
+CON  4901 121,CON Capstone I,,T,W,R,,10:00,11:50
+ARE  4901 121,ARE Capstone I,,T,W,R,,10:00,11:50
+PER  6250 001,Pediat. EC Perf,,T,,,,16:00,18:00
+MTH  1080 001,Precalculus,M,T,,R,F,8:00,8:50
+MTH  1110 002,Calculus I,M,T,W,,F,9:00,9:50
+CPE  2600 131,Systems Progrmg,,,,R,,10:00,11:50
+CPE  2600 121,Systems Progrmg,,T,,,,10:00,11:50
+MTH  2140 003,Diff Eq,M,,W,,F,10:00,10:50
+MEC  3210 123,Material Sci,M,,,,F,11:00,11:50
+MEC  3210 122,Material Sci,M,,,,F,11:00,11:50
+MTH  2340 003,Linear Algebra,M,,W,,F,12:00,12:50
+MTH  2130 004,Calculus III,M,,W,R,F,13:00,13:50
+SWE  2511 111,Web Apps,,T,,,,13:00,13:50
+CSC  3310 002,Algorithms,M,,W,,F,14:00,14:50
+MEC  3210 141,Material Sci,M,,,,F,15:00,15:50
+MEC  3210 142,Material Sci,M,,,,F,15:00,15:50
+COM  1001 002,College Writing,M,,W,,F,8:00,8:50
+COM  1001 007,College Writing,M,,W,,F,9:00,9:50
+COM  2001 001,STEM Writing,M,T,,R,,10:00,10:50
+ELE  4300 111,Prin of Comm,M,,,,F,13:00,13:50
+CSC  4981 831,TPC ML ProdSys,,,W,,,14:00,15:50
+UXD  1020 001,Visual Design,,T,,R,F,14:00,14:50
+ELE  5320 111,ApplicationsDSP,,T,,,F,15:00,15:50
+ELE  4320 111,ApplicationsDSP,,T,,,F,15:00,15:50
+SWE  2410 111,Dsg&CldPatterns,,T,,,F,8:00,8:50
+SWE  2410 111,Dsg&CldPatterns,,,,R,,8:00,9:50
+SWE  4411 001,Game Devel,M,,W,,F,9:00,9:50
+SWE  2410 121,Dsg&CldPatterns,,,W,,,10:00,11:50
+SWE  2410 121,Dsg&CldPatterns,M,,,,F,11:00,11:50
+CSC  2210 001,Proc. & OO C++,,T,W,R,F,13:00,13:50
+SWE  2410 141,Dsg&CldPatterns,,,,,F,14:00,15:50
+SWE  2410 131,Dsg&CldPatterns,,,W,,,14:00,14:50
+SWE  2410 141,Dsg&CldPatterns,,,W,R,,15:00,15:50
+UXD  1030 001,Interface Dsgn,M,,W,,F,8:00,8:50
+CSC  3210 001,Op Systems,,T,,R,F,9:00,9:50
+SPN  1001 111,Elementary SPN,,,,R,,10:00,11:50
+CSC  3210 002,Op Systems,M,,W,,F,10:00,10:50
+SPN  1001 111,Elementary SPN,M,,,,F,11:00,11:50
+CSC  4911 121,Mobile App Dev,,T,,,F,13:00,13:50
+SWE  4211 111,RT Systems,M,,,R,,14:00,14:50
+SWE  4211 121,RT Systems,,T,,,F,14:00,14:50
+CSC  1110 121,Software Dev,M,T,,,F,10:00,10:50
+CSC  4911 121,Mobile App Dev,,,,R,,13:00,14:50
+CSC  1110 141,Software Dev,M,T,,,F,13:00,13:50
+CSC  1110 151,Software Dev,M,,W,,F,14:00,14:50
+CSC  1110 161,Software Dev,M,,W,,F,15:00,15:50
+CSC  1110 171,Software Dev,M,T,W,,,16:00,16:50
+CSC  3310 001,Algorithms,M,,W,,F,8:00,8:50
+ELE  1601 001,Intro to Prog,M,,W,,F,9:00,9:50
+ELE  1601 002,Intro to Prog,M,,W,,F,10:00,10:50
+PSY  2002 001,Psych of Design,M,,W,,F,12:00,12:50
+TCM  1010 801,Argument & Pers,,T,,R,,13:00,13:50
+SWE  2511 111,Web Apps,,,,,F,13:00,13:50
+SWE  2511 111,Web Apps,,,W,,,13:00,14:50
+TCM  3020 003,Advance Presen,,T,,R,F,14:00,14:50
+RSC  0101 001,FOSS,,,W,,,17:00,17:50
+CSC  2621 111,Data Science,,,,R,,8:00,9:50
+CSC  4911 111,Mobile App Dev,M,,,,F,8:00,8:50
+CSC  4911 111,Mobile App Dev,,,W,,,8:00,9:50
+CSC  2621 111,Data Science,M,,,,F,9:00,9:50
+CSC  2611 121,AI Tools,,T,,,,10:00,11:50
+CSC  2621 121,Data Science,,,,R,,10:00,11:50
+CSC  2611 121,AI Tools,M,,,,F,10:00,10:50
+CSC  2621 121,Data Science,M,,,,F,11:00,11:50
+CSC  2611 131,AI Tools,,,W,,,12:00,13:50
+CSC  2611 141,AI Tools,,,,R,,13:00,14:50
+CSC  2611 131,AI Tools,M,,,,F,13:00,13:50
+CSC  2611 141,AI Tools,M,,,,F,14:00,14:50
+CSC  2611 151,AI Tools,,,W,,,15:00,16:50
+CSC  2621 131,Data Science,,T,,,,15:00,16:50
+CSC  2621 131,Data Science,M,,,,F,15:00,15:50
+CSC  2611 151,AI Tools,M,,,R,,16:00,16:50
+ELE  2001 111,Elec Circuits 1,M,,W,,F,8:00,8:50
+ELE  2001 121,Elec Circuits 1,M,,W,R,,9:00,9:50
+ELE  2001 131,Elec Circuits 1,M,,W,R,,10:00,10:50
+BME  1010 111,Intro to BME,,T,,,,10:00,10:50
+BME  1010 121,Intro to BME,,T,,,,11:00,11:50
+BME  3210 111,Medical Imaging,,,,,F,13:00,14:50
+BME  1010 131,Intro to BME,,T,,,,13:00,13:50
+BME  3210 112,Medical Imaging,,,,R,,14:00,15:50
+ELE  2001 141,Elec Circuits 1,M,,W,,F,15:00,15:50
+ELE  2001 151,Elec Circuits 1,M,,W,R,,16:00,16:50
+SWE  4540 111,Net. Security,,,,R,,10:00,11:50
+SWE  4211 111,RT Systems,,,W,,,13:00,14:50
+SWE  4211 121,RT Systems,,,,R,,13:00,14:50
+CSC  1120 111,Data Structures,M,T,,,F,8:00,8:50
+ELE  3101 111,Electronics I,M,,W,,F,9:00,9:50
+ELE  3101 121,Electronics I,M,,W,,F,10:00,10:50
+SWE  2511 121,Web Apps,,,,R,,13:00,14:50
+SWE  2511 121,Web Apps,,T,,,F,14:00,14:50
+CSC  1110 171,Software Dev,,,,R,,16:00,17:50
+CSC  4980 001,Topic Security,,T,,R,,18:00,19:15
+SWE  4901 008,SE Capstone I,M,,W,,,17:00,18:50
+CSC  4901 008,CSC Capstone I,M,,W,,,17:00,18:50
+CSC  2611 111,AI Tools,,,W,,,8:00,9:50
+CSC  2611 111,AI Tools,,T,,,F,9:00,9:50
+SWE  4411 002,Game Devel,M,,W,,F,11:00,11:50
+CSC  3320 111,Databases,,,W,,,13:00,14:50
+CSC  3320 111,Databases,,T,,,F,13:00,13:50
+CSC  3320 121,Databases,,,,R,,14:00,15:50
+SWE  2410 131,Dsg&CldPatterns,,T,,,,14:00,15:50
+SWE  2410 131,Dsg&CldPatterns,M,,,,,14:00,14:50
+CSC  3320 121,Databases,M,,,,F,15:00,15:50
+SWE  3710 111,Soft.Dev. Lab 1,M,,W,,,8:00,9:50
+SWE  3720 111,Soft.Dev Lab 2,M,,W,,,8:00,9:50
+SWE  3720 121,Soft.Dev Lab 2,,T,,R,,10:00,11:50
+SWE  3710 121,Soft.Dev. Lab 1,,T,,R,,10:00,11:50
+SWE  2710 111,Tools & Process,,,W,,,8:00,8:50
+SWE  2710 111,Tools & Process,,T,,,F,8:00,9:50
+SWE  2710 121,Tools & Process,M,,,R,,9:00,10:50
+SWE  3411 111,Reqs&Architect,,T,,,,10:00,11:50
+SWE  2710 121,Tools & Process,,,W,,,10:00,10:50
+SWE  3411 111,Reqs&Architect,M,,W,R,,11:00,11:50
+SWE  3411 121,Reqs&Architect,,T,,,,15:00,16:50
+SWE  3411 121,Reqs&Architect,M,,W,R,,16:00,16:50
+CSC  1110 111,Software Dev,M,T,,,F,8:00,8:50
+CSC  1110A111,SoftDevA,,,,R,,8:00,9:50
+CSC  1110A111,SoftDevA,M,,W,,,9:00,9:50
+CSC  1110A131,SoftDevA,M,T,,R,F,10:00,10:50
+SWE  4540 111,Net. Security,,,W,,F,11:00,11:50
+CSC  1110A141,SoftDevA,M,T,W,R,,13:00,13:50
+CSC  1110A151,SoftDevA,M,T,W,R,,14:00,14:50
+CSC  1120 121,Data Structures,M,T,,R,,16:00,16:50
+CSC  1110 111,Software Dev,,,,R,,8:00,9:50
+CSC  1110A111,SoftDevA,,T,,,,8:00,9:50
+CSC  1120 111,Data Structures,,,W,,,8:00,9:50
+CSC  1110 121,Software Dev,,,,R,,10:00,11:50
+CSC  1110A131,SoftDevA,,,W,,,10:00,11:50
+CSC  1110A141,SoftDevA,,,,,F,12:00,13:50
+CSC  1110 141,Software Dev,,,W,,,12:00,13:50
+CSC  1110 151,Software Dev,,T,,,,13:00,14:50
+CSC  1110A151,SoftDevA,,,,,F,14:00,15:50
+CSC  1120 121,Data Structures,,,W,,,15:00,16:50
+CSC  1110 161,Software Dev,,T,,,,15:00,16:50
+COM  1001 001,College Writing,M,,W,,F,8:00,8:50
+COM  1001 008,College Writing,M,,W,R,,9:00,9:50
+COM  1001 010,College Writing,,T,,R,F,10:00,10:50
+PSY  2010 801,Human Lang,M,T,,,,11:00,11:50
+COM  1001 018,College Writing,M,,W,,F,12:00,12:50
+LIT  2010 001,Literary Genres,M,,,R,F,13:00,13:50
+PSY  1001 001,Found Psych,M,,W,R,,14:00,14:50
+COM  1001 027,College Writing,M,T,,R,,15:00,15:50
+COM  1001 030,College Writing,M,T,,R,,16:00,16:50
+SPN  3001 111,Advanced Spanis,,,W,,,8:00,9:50
+TCM  3020 001,Advance Presen,M,T,,R,,8:00,8:50
+PSY  3003 001,Develop Psych,M,T,,R,,9:00,9:50
+HST  2014 001,Hst of US Fair,M,,,R,F,10:00,10:50
+COM  1001 013,College Writing,M,,W,,F,11:00,11:50
+COM  1001 017,College Writing,M,,W,,F,12:00,12:50
+COM  1001 021,College Writing,M,,,R,F,13:00,13:50
+UXD  3020 801,Design for Chat,,T,W,,,14:00,14:50
+HST  2031 002,World War II,M,,,R,F,14:00,14:50
+COM  1001 026,College Writing,M,,W,,F,15:00,15:50
+COM  1001 802,College Writing,,T,,R,,15:00,15:50
+PSY  2002 002,Psych of Design,M,,W,R,,16:00,16:50
+AHT  2002 001,German Art Hist,,T,,R,,17:00,18:15
+LIT  1010 001,American Lit,M,T,,,F,8:00,8:50
+COM  1001 005,College Writing,M,T,,R,,9:00,9:50
+UXD  1001 001,Hum-Cntr Design,M,,W,,F,10:00,10:50
+TCM  3010 001,Digital Story,,T,,R,F,11:00,11:50
+PSC  2010 002,Political Sci,M,,W,,F,12:00,12:50
+PHL  3103 002,Bioethics,M,T,,,F,13:00,13:50
+PHL  3103 003,Bioethics,M,,,R,F,14:00,14:50
+PSY  2006 002,Dth Dying Grf,,T,,R,F,15:00,15:50
+COM  1001 028,College Writing,M,,W,,F,16:00,16:50
+MTH  2140 001,Diff Eq,M,,W,,F,8:00,8:50
+ELE  2051 003,Circuits for ME,M,T,,R,,9:00,9:50
+IND  3400 001,Quality,M,T,,,F,10:00,10:50
+MEC  2010 009,Statics,M,,W,,F,13:00,13:50
+IND  3400 002,Quality,M,,W,,F,14:00,14:50
+IND  4430 001,Lean,M,,W,,F,15:00,15:50
+BME  2310 111,BME Embedded,,,,R,,8:00,9:50
+BME  2310 111,BME Embedded,M,,,,F,8:00,8:50
+PSC  2010 001,Political Sci,M,T,,,F,9:00,9:50
+CHM  2310 111,Biochem,M,T,W,,,10:00,10:50
+MEC  4901 112,Cap Design I,,,,,F,10:00,10:50
+CHM  2310 112,Biochem,M,T,W,,,10:00,10:50
+MTH  2310 002,Discrete Math,M,,W,,F,11:00,11:50
+MTH  1080 008,Precalculus,M,,W,R,F,13:00,13:50
+MTH  2480 004,Prob and Stats,M,,W,,F,14:00,14:50
+PHY  3530 001,QuantumPhysics,,T,,R,,14:00,14:50
+PHY  1110A121,Physics IA,M,T,,R,F,15:00,15:50
+PHY  1110A122,Physics IA,M,T,,R,F,15:00,15:50
+PHY  1110 124,Physics I,M,T,,R,,15:00,15:50
+PHY  1110 123,Physics I,M,T,,R,,15:00,15:50
+MTH  2130 008,Calculus III,M,T,W,R,,16:00,16:50
+MTH  1080 011,Precalculus,M,T,W,R,,8:00,8:50
+CPE  2600 111,Systems Progrmg,M,,W,,F,9:00,9:50
+CPE  2600 121,Systems Progrmg,M,,W,,F,10:00,10:50
+ELE  1000 121,Intro to EE,,T,,R,,11:00,11:50
+CPE  2600 131,Systems Progrmg,M,,W,,F,11:00,11:50
+MTH  2480 003,Prob and Stats,M,,W,,F,12:00,12:50
+CPE  2600 141,Systems Progrmg,,,,R,,13:00,14:50
+CPE  2600 141,Systems Progrmg,M,,W,,F,13:00,13:50
+BME  2310 131,BME Embedded,,T,,,,13:00,14:50
+CPE  2600 151,Systems Progrmg,M,,W,,F,14:00,14:50
+MTH  2130 006,Calculus III,M,T,,R,F,15:00,15:50
+CPE  2600 161,Systems Progrmg,M,,W,,F,16:00,16:50
+MTH  1110 001,Calculus I,,T,W,R,F,8:00,8:50
+MTH  2480 001,Prob and Stats,M,,W,,F,9:00,9:50
+MEC  4901 121,Cap Design I,,,W,,F,10:00,10:50
+ELE  2051 001,Circuits for ME,M,T,,R,,10:00,10:50
+MTH  1110 005,Calculus I,M,T,W,,F,11:00,11:50
+MTH  2140 005,Diff Eq,M,,W,,F,12:00,12:50
+MTH  1110 006,Calculus I,M,,W,R,F,13:00,13:50
+MTH  1120 004,Calculus II,,T,W,R,F,14:00,14:50
+MTH  2130 007,Calculus III,,T,W,R,F,15:00,15:50
+MTH  2130 009,Calculus III,,T,W,R,F,16:00,16:50
+MTH  1030 001,Quant Reasoning,M,,W,R,,8:00,8:50
+MTH  1110 003,Calculus I,M,,W,R,F,9:00,9:50
+MTH  2480 002,Prob and Stats,M,,W,,F,10:00,10:50
+MTH  2140 004,Diff Eq,,T,,R,F,11:00,11:50
+MTH  2980T003,QCalcIII,M,,W,,F,12:00,12:50
+PHY  3700 111,Ph El Mat Sem D,M,T,,R,,13:00,13:50
+PHY  3700 112,Ph El Mat Sem D,M,T,,R,,13:00,13:50
+MTH  1110 007,Calculus I,M,T,W,,F,14:00,14:50
+MTH  1110 008,Calculus I,M,T,,R,F,15:00,15:50
+MTH  1110 009,Calculus I,M,T,W,R,,16:00,16:50
+MTH  1080 002,Precalculus,,T,W,R,F,8:00,8:50
+MTH  1080 004,Precalculus,,T,W,R,F,9:00,9:50
+MTH  1080 006,Precalculus,,T,W,R,F,10:00,10:50
+MTH  2130 003,Calculus III,M,,W,R,F,11:00,11:50
+MTH  2140 010,Diff Eq,M,,W,,F,12:00,12:50
+MTH  2140 006,Diff Eq,M,,W,,F,13:00,13:50
+MTH  2140 007,Diff Eq,M,T,,,F,14:00,14:50
+MTH  2980U001,QcalcIII&IV,M,T,W,R,F,15:00,15:50
+MTH  2140 009,Diff Eq,M,T,,R,,16:00,16:50
+CPE  1500 111,Digital Logic,M,,W,,F,8:00,8:50
+PSY  3002 001,Psych Disorder,M,T,,,F,9:00,9:50
+CPE  1500 121,Digital Logic,M,,W,,F,10:00,10:50
+MTH  2340 002,Linear Algebra,M,,W,,F,11:00,11:50
+MEC  2010 005,Statics,,T,,R,F,13:00,13:50
+CPE  1500 131,Digital Logic,M,,W,,F,14:00,14:50
+ELE  1000 131,Intro to EE,,T,,R,,14:00,14:50
+MTH  2140 008,Diff Eq,M,,W,,F,15:00,15:50
+CPE  1500 141,Digital Logic,M,,W,,F,16:00,16:50
+MTH  1050 002,Finite Math,M,T,,R,F,8:00,8:50
+MTH  1050 001,Finite Math,M,T,,R,F,9:00,9:50
+ACS  3410 001,LinRegTimeSer,,T,,R,F,10:00,10:50
+MEC  4901 114,Cap Design I,,,W,,,10:00,10:50
+ACS  1130 001,Intr. Act. Sci.,,T,,R,,11:00,11:50
+MTH  4130 001,Complex Analys,M,,W,,F,12:00,12:50
+ACS  1530 001,Fin. Math I,M,,W,,F,13:00,13:50
+MEC  4873 001,Gas Turb Eng,,T,,R,,13:00,14:15
+ACS  3530 001,Fund Act Math I,M,,W,,F,14:00,14:50
+ELE  2011 003,Elec Circuits 2,,T,W,R,F,15:00,15:50
+MTH  2340 004,Linear Algebra,,T,,R,F,16:00,16:50
+MTH  2310 001,Discrete Math,M,,W,,F,8:00,8:50
+MEC  3210 112,Material Sci,M,,,,F,9:00,9:50
+MEC  3210 111,Material Sci,M,,,,F,9:00,9:50
+MEC  3210 113,Material Sci,M,,,,F,9:00,9:50
+CHM  1010A112,Chemistry I,M,T,,R,F,10:00,10:50
+CHM  1010A111,Chemistry I,M,T,,R,F,10:00,10:50
+CHM  1010 114,Chemistry I,M,T,,R,,10:00,10:50
+CHM  1010 113,Chemistry I,M,T,,R,,10:00,10:50
+PHY  1110 141,Physics I,M,T,W,,,11:00,11:50
+PHY  1110 142,Physics I,M,T,W,,,11:00,11:50
+MEC  1602 176,IntrSldMdl&Dsgn,M,,,,F,13:00,13:50
+MEC  1602 175,IntrSldMdl&Dsgn,M,,,,F,13:00,13:50
+MEC  4874 001,Renewable Energ,M,,W,,F,14:00,14:50
+MTH  2310 003,Discrete Math,,T,W,,F,15:00,15:50
+MEC  1602 192,IntrSldMdl&Dsgn,M,,,R,,16:00,16:50
+MEC  1602 191,IntrSldMdl&Dsgn,M,,,R,,16:00,16:50
+PHY  1110A111,Physics IA,,T,,,,8:00,9:50
+PHY  1110A111,Physics IA,M,,W,,,8:00,8:50
+PHY  1110 111,Physics I,M,T,W,,,8:00,8:50
+PHY  1110 112,Physics I,M,T,W,,,8:00,8:50
+PHY  1110A112,Physics IA,,T,,,,8:00,9:50
+PHY  1110A112,Physics IA,M,,W,,,8:00,8:50
+CHM  1010 132,Chemistry I,M,,,R,F,9:00,9:50
+CHM  1010 131,Chemistry I,M,,,R,F,9:00,9:50
+MTH  1120 003,Calculus II,M,,W,R,F,10:00,10:50
+MTH  2680 001,Probability,,T,,R,F,11:00,11:50
+PHY  1120 141,Physics II E&M,M,T,,,F,13:00,13:50
+PHY  1120 142,Physics II E&M,M,T,,,F,13:00,13:50
+MTH  2130 005,Calculus III,M,T,W,R,,14:00,14:50
+CHM  1010 186,Chemistry I,M,,,R,F,15:00,15:50
+CHM  1010 185,Chemistry I,M,,,R,F,15:00,15:50
+MTH  2480 005,Prob and Stats,M,,W,,F,16:00,16:50
+MTH  2130 001,Calculus III,M,T,,R,F,8:00,8:50
+ELE  3310 001,ProbRandProcess,,T,,R,F,9:00,9:50
+BME  3510 001,Biotransport,M,T,,R,F,10:00,10:50
+BME  4980T001,BMEDevst&reg,,,W,,F,11:00,11:50
+BME  4901 112,BME Design I,,T,,,,11:00,11:50
+BME  4901 111,BME Design I,,T,,,,11:00,11:50
+MEC  3210 132,Material Sci,M,,,,F,13:00,13:50
+MEC  3210 133,Material Sci,M,,,,F,13:00,13:50
+ELE  3401 112,Elec Pow Mach,M,T,,,F,14:00,14:50
+ELE  3401 111,Elec Pow Mach,M,T,,,F,14:00,14:50
+MTH  2980T004,QCalcIII,M,,W,,F,15:00,15:50
+MTH  2980T005,QCalcIII,M,,W,,F,16:00,16:50
+CSC  1120 311,Data Structures,,,,R,,8:00,9:50
+MEC  4901 127,Cap Design I,,,W,,F,10:00,10:50
+MEC  4901 122,Cap Design I,,,W,,F,10:00,10:50
+MEC  4901 120,Cap Design I,,,W,,F,10:00,10:50
+MEC  4901 118,Cap Design I,,,W,,F,10:00,10:50
+MEC  4901 115,Cap Design I,,,W,,F,10:00,10:50
+MEC  4901 128,Cap Design I,,,W,,F,10:00,10:50
+MEC  4901 126,Cap Design I,,,W,,F,10:00,10:50
+MEC  4901 125,Cap Design I,,,W,,F,10:00,10:50
+CSC  4981 111,TPC:ReinforcLrn,,T,,,,10:00,11:50
+CSC  4981 111,TPC:ReinforcLrn,M,,,R,,10:00,10:50
+MEC  4901 111,Cap Design I,,,W,,F,10:00,10:50
+MEC  1900 001,Intro to ME,M,,,,,11:00,11:50
+PER  6240 111,Spec Sit in Per,,,,R,,16:00,18:00
+RSC  1010 001,Yr 1 Seminar I,,,,R,,17:00,19:30
+RSC  3010 001,Yr 3 Seminar I,,,,R,,17:00,19:30
+RSC  2010 001,Yr 2 Seminar I,,,,R,,17:00,19:30
+MUS  0600 001,jazzcombo,M,,,,,18:00,19:00
+MUS  0500 001,Pep band nc,,,,R,,18:00,19:00
+MUS  1100 001,Orchestra,,,W,,,19:00,21:30
+MUS  1400 001,Choir-credit,,,,R,,19:00,21:30
+MUS  1300 001,Band credit,,T,,,,19:00,21:30
+MUS  0300 001,Band nc,,T,,,,19:00,21:30
+MUS  0100 001,Orchestra,,,W,,,19:00,21:30
+MUS  0200 001,Jazz-nocred,M,,,,,19:00,21:30
+MUS  0400 001,Choir-nc,,,,R,,19:00,21:30
+MUS  1200 001,Jazz (credit),M,,,,,19:00,21:30
+BUS  4690 001,Cons Behavior,M,,W,,F,9:00,9:50
+BUS  3650 001,Brand Mgmt,M,,W,,F,11:00,11:50
+BUS  1850 001,Info & Ops Tech,,T,,R,F,13:00,13:50
+BUS  3820 001,Plan Sched Cont,M,,,R,F,14:00,14:50
+BUS  3670 001,Mktg Research,M,,W,,F,15:00,15:50
+BUS  4620 001,TechSelling,M,,W,,,17:00,18:15
+BUS  3445 001,Leader Comm,M,,W,,F,9:00,9:50
+BUS  4900 001,Forecast-Strat,M,,W,,F,10:00,10:50
+BUS  2710 001,Database Mgmt,M,,W,,F,11:00,11:50
+BUS  2100 001,Org Mgmt,M,,W,,F,12:00,12:50
+BIO  1110 121,Cell Bio & Gen,M,T,,,F,13:00,13:50
+BUS  2100 002,Org Mgmt,M,T,,,F,14:00,14:50
+BUS  3445 002,Leader Comm,M,T,,,F,15:00,15:50
+BUS  2450 001,Bus Operations,,T,,R,,17:30,18:45
+BUS  3600 001,Adv Fin Analys,M,T,,R,,9:00,9:50
+BUS  2221 001,Microeconomics,M,,W,,F,11:00,11:50
+BUS  3560 111,Mgrl Cost Acctg,,,W,,,13:00,14:50
+BUS  3560 111,Mgrl Cost Acctg,,T,,,F,13:00,13:50
+BUS  2510 111,Prin - Fin Acct,,,,R,,14:00,15:50
+BUS  2510 111,Prin - Fin Acct,,T,,,F,14:00,14:50
+BUS  4530 001,Pers Fin Plan,M,,W,,F,15:00,15:50
+BUS  3790 001,Web Design I,M,T,,R,,16:00,16:50
+BUS  2411 001,Bldg Incl Teams,M,,W,,F,8:00,8:50
+BUS  2411 002,Bldg Incl Teams,,T,W,,F,9:00,9:50
+BUS  2411 003,Bldg Incl Teams,M,,W,,F,11:00,11:50
+BUS  4340 002,Entrep Mind,M,,W,,F,14:00,14:50
+BUS  2411 004,Bldg Incl Teams,,T,W,,F,15:00,15:50
+BUS  3800 001,Cont Improvment,M,,W,,,17:30,18:45
+BUS  3200 801,Econ-Fin D-M,M,,W,,F,9:00,9:50
+BUS  2510 811,Prin - Fin Acct,,,,R,,10:00,11:50
+BUS  2510 811,Prin - Fin Acct,M,,,,F,10:00,10:50
+BUS  2221 003,Microeconomics,M,,W,,F,11:00,11:50
+BUS  2222 801,Macroeconomics,M,,W,,F,12:00,12:50
+BUS  3200 802,Econ-Fin D-M,,T,W,,F,13:00,13:50
+BUS  2221 002,Microeconomics,M,,W,,F,15:00,15:50
+BUS  2222 001,Macroeconomics,M,,W,,F,8:00,8:50
+BUS  2530 001,Intro Finance,M,,W,,F,12:00,12:50
+MEC  1602 112,IntrSldMdl&Dsgn,,,W,,,8:00,9:50
+MEC  1602 111,IntrSldMdl&Dsgn,,T,,,,8:00,9:50
+MEC  1602 132,IntrSldMdl&Dsgn,,,,,F,8:00,9:50
+MEC  1602 131,IntrSldMdl&Dsgn,,,,R,,8:00,9:50
+MEC  1602 152,IntrSldMdl&Dsgn,,,,,F,10:00,11:50
+MEC  1602 151,IntrSldMdl&Dsgn,,,,R,,10:00,11:50
+MEC  1602 142,IntrSldMdl&Dsgn,,,W,,,10:00,11:50
+MEC  1602 141,IntrSldMdl&Dsgn,,T,,,,10:00,11:50
+MEC  1602 171,IntrSldMdl&Dsgn,,,,,F,13:00,14:50
+MEC  1602 162,IntrSldMdl&Dsgn,,,W,,,13:00,14:50
+MEC  1602 176,IntrSldMdl&Dsgn,,,,R,,13:00,14:50
+MEC  1602 175,IntrSldMdl&Dsgn,,T,,,,13:00,14:50
+MEC  1602 192,IntrSldMdl&Dsgn,,,W,,,15:00,16:50
+MEC  1602 191,IntrSldMdl&Dsgn,,T,,,,15:00,16:50
+MEC  1602 196,IntrSldMdl&Dsgn,,,,R,,18:00,19:50
+MEC  1602 195,IntrSldMdl&Dsgn,,T,,,,18:00,19:50
+MEC  1602 121,IntrSldMdl&Dsgn,M,,,,F,8:00,8:50
+MEC  1602 122,IntrSldMdl&Dsgn,,,,R,,8:00,9:50
+MEC  1602 122,IntrSldMdl&Dsgn,M,,,,F,8:00,8:50
+MEC  1602 121,IntrSldMdl&Dsgn,,T,,,,8:00,9:50
+MEC  2010 002,Statics,M,,W,,F,9:00,9:50
+MEC  3040 001,CAD of Machines,M,,,R,F,10:00,10:50
+MEC  2010 003,Statics,,,W,,,10:00,10:50
+MEC  3040 002,CAD of Machines,,T,W,,F,11:00,11:50
+MEC  1602 161,IntrSldMdl&Dsgn,,T,,,,13:00,14:50
+PHY  3530 001,QuantumPhysics,,,,,F,14:00,14:50
+PHY  3810 001,Biophysics,M,,W,R,,14:00,14:50
+ELE  1601 003,Intro to Prog,M,,W,,F,15:00,15:50
+MEC  4060 111,FEA,,T,,,,8:00,9:50
+MEC  4060 121,FEA,,,,R,,9:00,10:50
+MEC  4060 131,FEA,,T,,,,10:00,11:50
+MEC  4870 111,HVAC Design,,,,,F,12:00,13:50
+MEC  4060 141,FEA,,,W,,,12:00,13:50
+MEC  4060 151,FEA,,,W,,,15:00,16:50
+MEC  4310 112,Auto Ctrl Sys,,,,R,,8:00,9:50
+MEC  4310 111,Auto Ctrl Sys,,T,,,,8:00,9:50
+MEC  4310 122,Auto Ctrl Sys,,,,R,,10:00,11:50
+MEC  4310 121,Auto Ctrl Sys,,T,,,,10:00,11:50
+MEC  4901 117,Cap Design I,,,W,,F,10:00,10:50
+MEC  4310 132,Auto Ctrl Sys,,,,,F,12:00,13:50
+MEC  4310 141,Auto Ctrl Sys,,,W,,,12:00,13:50
+MEC  4310 152,Auto Ctrl Sys,,,,,F,15:00,16:50
+MEC  4310 151,Auto Ctrl Sys,,,W,,,15:00,16:50
+PHY  1110 162,Physics I,,,W,,,13:00,14:50
+PHY  1110 161,Physics I,,T,,,,13:00,14:50
+PHY  1110 172,Physics I,,,W,,,15:00,16:50
+PHY  1110 171,Physics I,,T,,,,15:00,16:50
+MEC  4676 001,Comp Materials,M,,W,,F,8:00,8:50
+MEC  5980 002,Topic Mech Engr,M,,W,,F,8:00,8:50
+CHM  1010 142,Chemistry I,M,,,R,F,9:00,9:50
+CHM  1010 141,Chemistry I,M,,,R,F,9:00,9:50
+PHL  3102 001,Ethics of AI,M,,W,,F,10:00,10:50
+CHM  1010 166,Chemistry I,M,T,W,,,13:00,13:50
+CHM  1010 165,Chemistry I,M,T,W,,,13:00,13:50
+CHM  1010 182,Chemistry I,M,T,W,,,14:00,14:50
+CHM  1010 181,Chemistry I,M,T,W,,,14:00,14:50
+CHM  1010A122,Chemistry I,M,T,,R,F,15:00,15:50
+CHM  1010A121,Chemistry I,M,T,,R,F,15:00,15:50
+CHM  1010 124,Chemistry I,M,T,,R,,15:00,15:50
+CHM  1010 123,Chemistry I,M,T,,R,,15:00,15:50
+PHL  3101 007,Ethics Eng/Mngr,M,,W,,,16:00,17:15
+PHY  1110 192,Physics I,,T,,R,,17:00,18:15
+PHY  1110 191,Physics I,,T,,R,,17:00,18:15
+MEC  4810 112,ThermoFluidLab,M,,W,,,8:00,8:50
+MEC  4810 111,ThermoFluidLab,M,,W,,,8:00,8:50
+PHY  1110 121,Physics I,M,,,R,F,9:00,9:50
+PHY  1110 122,Physics I,M,,,R,F,9:00,9:50
+CHM  1010 152,Chemistry I,M,,,R,F,10:00,10:50
+CHM  1010 151,Chemistry I,M,,,R,F,10:00,10:50
+MEC  2010 004,Statics,,T,,R,F,11:00,11:50
+MEC  2110 001,Thermo I,M,,W,,,11:30,12:45
+CHM  1010 172,Chemistry I,M,,,R,F,13:00,13:50
+CHM  1010 171,Chemistry I,M,,,R,F,13:00,13:50
+CHM  1010 176,Chemistry I,M,,,R,F,14:00,14:50
+CHM  1010 175,Chemistry I,M,,,R,F,14:00,14:50
+PHY  1110 181,Physics I,M,,,,,15:00,15:50
+PHY  1110 182,Physics I,M,,,,,15:00,15:50
+CPE  2600 111,Systems Progrmg,,,,R,,8:00,9:50
+IND  3700 001,Proj Managment,M,,W,,F,8:00,8:50
+ELE  3510 111,Digital Systems,M,T,,,F,9:00,9:50
+PHY  1120 131,Physics II E&M,M,T,,,F,10:00,10:50
+MEC  4901 112,Cap Design I,,,W,,,10:00,10:50
+ELE  3510 121,Digital Systems,M,,,R,F,11:00,11:50
+MEC  3040 003,CAD of Machines,M,T,,,F,13:00,13:50
+MEC  3310 141,Instr & Measure,M,,,R,,14:00,14:50
+MEC  2010 007,Statics,M,,W,,F,15:00,15:50
+MEC  4310 112,Auto Ctrl Sys,M,,W,,,8:00,8:50
+MEC  4310 111,Auto Ctrl Sys,M,,W,,,8:00,8:50
+MEC  4670 111,ExpStressAnalys,,,,R,,10:00,11:50
+MEC  2010 003,Statics,M,,,,F,10:00,10:50
+MEC  4670 111,ExpStressAnalys,,T,,,F,11:00,11:50
+MEC  2030 112,Mech-Materials,,,,,F,13:00,14:50
+MEC  2030 112,Mech-Materials,M,T,W,,,13:00,13:50
+MEC  2030 111,Mech-Materials,,,,R,,13:00,14:50
+MEC  2030 111,Mech-Materials,M,T,W,,,13:00,13:50
+MEC  3040 004,CAD of Machines,M,,W,,F,15:00,15:50
+MEC  3210 151,Material Sci,,T,,,,16:00,17:50
+MEC  2010 008,Statics,M,,W,,,16:00,17:15
+PHY  1110A111,Physics IA,,,,R,,8:00,9:50
+PHY  1110 111,Physics I,,,,R,,8:00,9:50
+PHY  1110 121,Physics I,,T,,,,8:00,9:50
+PHY  1110A112,Physics IA,,,,,F,8:00,9:50
+PHY  1110 122,Physics I,,,W,,,8:00,9:50
+PHY  1110 112,Physics I,,,,,F,8:00,9:50
+PHY  1110 142,Physics I,,,,,F,10:00,11:50
+PHY  1110 141,Physics I,,,,R,,10:00,11:50
+PHY  1110 132,Physics I,,,W,,,10:00,11:50
+PHY  1110 131,Physics I,,T,,,,10:00,11:50
+PHY  1110 123,Physics I,,,W,,,13:00,14:50
+PHY  1110A121,Physics IA,,,W,,,13:00,14:50
+PHY  1110 152,Physics I,,,,,F,13:00,14:50
+PHY  1110 151,Physics I,,,,R,,13:00,14:50
+PHY  1110 181,Physics I,,,,R,,15:00,16:50
+PHY  1110 182,Physics I,,T,,,,15:00,16:50
+PHY  1110 124,Physics I,,,W,,,15:00,16:50
+PHY  1110A122,Physics IA,,,W,,,15:00,16:50
+PHY  3700 112,Ph El Mat Sem D,,,,R,,15:00,16:50
+PHY  3700 111,Ph El Mat Sem D,,T,,,,15:00,16:50
+PHY  1120 122,Physics II E&M,,,,,F,8:00,9:50
+PHY  1120 121,Physics II E&M,,,W,,,8:00,9:50
+PHY  1120 112,Physics II E&M,,,,R,,8:00,9:50
+PHY  1120 111,Physics II E&M,,T,,,,8:00,9:50
+PHY  1120 131,Physics II E&M,,,,R,,10:00,11:50
+PHY  1120 141,Physics II E&M,,,W,,,13:00,14:50
+PHY  1120 142,Physics II E&M,,,,R,,13:00,14:50
+MEC  1602 112,IntrSldMdl&Dsgn,M,,,,F,8:00,8:50
+MEC  1602 111,IntrSldMdl&Dsgn,M,,,,F,8:00,8:50
+MEC  3120 002,Fluid Mechanics,M,,,R,F,9:00,9:50
+MEC  1602 132,IntrSldMdl&Dsgn,,T,W,,,9:00,9:50
+MEC  1602 131,IntrSldMdl&Dsgn,,T,W,,,9:00,9:50
+MEC  4901 116,Cap Design I,,,W,,F,10:00,10:50
+MEC  1602 142,IntrSldMdl&Dsgn,M,,,R,,10:00,10:50
+MEC  1602 141,IntrSldMdl&Dsgn,M,,,R,,10:00,10:50
+MEC  4310 122,Auto Ctrl Sys,M,,W,,,11:00,11:50
+MEC  4310 121,Auto Ctrl Sys,M,,W,,,11:00,11:50
+MEC  4060 141,FEA,,T,,,F,13:00,13:50
+MEC  1602 162,IntrSldMdl&Dsgn,M,,,R,,13:00,13:50
+MEC  1602 161,IntrSldMdl&Dsgn,M,,,R,,13:00,13:50
+MEC  3120 005,Fluid Mechanics,M,T,,,F,14:00,14:50
+ELE  3510 131,Digital Systems,M,,,R,F,15:00,15:50
+ELE  3510 132,Digital Systems,M,,,R,F,15:00,15:50
+ELE  5451 001,Grid Stab,,T,W,R,,16:00,16:50
+ELE  4451 001,Grid Stab,,T,W,R,,16:00,16:50
+CPE  4901 008,Senior Design I,M,,W,,,17:00,18:50
+CHM  1010 112,Chemistry I,,,,R,,8:00,9:50
+CHM  1010 111,Chemistry I,,T,,,,8:00,9:50
+BIO  1410 111,A&P I,,,W,,,9:00,10:50
+BIO  1410 112,A&P I,,,W,,,11:00,12:50
+CHM  1010 162,Chemistry I,,,,R,,13:00,14:50
+CHM  1010 161,Chemistry I,,T,,,,13:00,14:50
+MEC  3210 112,Material Sci,,T,,,,8:00,9:50
+MEC  3210 111,Material Sci,,,W,,,8:00,9:50
+MEC  3210 113,Material Sci,,,,R,,8:00,9:50
+MEC  3210 122,Material Sci,,,W,,,10:00,11:50
+MEC  4901 114,Cap Design I,,,,,F,10:00,10:50
+MEC  3210 123,Material Sci,,,,R,,10:00,11:50
+MEC  3210 132,Material Sci,,,,R,,13:00,14:50
+MEC  3210 133,Material Sci,,,W,,,13:00,14:50
+MEC  3210 142,Material Sci,,,W,,,15:00,16:50
+MEC  3210 141,Material Sci,,T,,,,15:00,16:50
+MEC  3210 151,Material Sci,,,,R,,16:00,17:50
+IND  4840 001,AdvSim,M,,W,,F,8:00,8:50
+IND  3600 111,Ergo & Methods,,T,,,,8:00,9:50
+IND  3600 111,Ergo & Methods,M,,W,,F,9:00,9:50
+IND  4901 114,IESeniorDesignI,,,W,,,10:00,11:50
+IND  4901 113,IESeniorDesignI,,,W,,,10:00,11:50
+IND  4901 112,IESeniorDesignI,,,W,,,10:00,11:50
+IND  4901 111,IESeniorDesignI,,,W,,,10:00,11:50
+IND  4210 111,CAM/CNC/AM,,,,R,,13:00,14:50
+IND  3810 001,Optimization,M,,W,,F,13:00,13:50
+IND  1000 001,Intro to IE,M,,,,,16:00,16:50
+IND  4320 111,Facilities,M,,,R,,17:30,19:50
+IND  2700 001,Engr Economics,M,,W,,F,9:00,9:50
+PHY  1110 132,Physics I,M,,,R,F,10:00,10:50
+PHY  1110 131,Physics I,M,,,R,F,10:00,10:50
+PHY  1110 152,Physics I,M,T,W,,,13:00,13:50
+PHY  1110 151,Physics I,M,T,W,,,13:00,13:50
+PHY  1110 162,Physics I,M,,,R,F,14:00,14:50
+PHY  1110 161,Physics I,M,,,R,F,14:00,14:50
+PHY  1110 172,Physics I,M,,,R,F,15:00,15:50
+PHY  1110 171,Physics I,M,,,R,F,15:00,15:50
+CHM  1010 192,Chemistry I,M,T,W,,,16:00,16:50
+CHM  1010 191,Chemistry I,M,T,W,,,16:00,16:50
+ELE  4901 008,SeniorDesign I,M,,W,,,17:00,18:50
+ELE  4980T111,QAnelecII,,,,,F,8:00,9:50
+ELE  2011 001,Elec Circuits 2,,T,W,R,F,10:00,10:50
+ELE  2011 002,Elec Circuits 2,M,T,W,,F,11:00,11:50
+ELE  4300 111,Prin of Comm,,,W,,,12:00,13:50
+ELE  4980T121,QAnelecII,,,,R,,13:00,14:50
+ELE  3201 111,EMandTL,,,,,F,13:00,14:50
+ELE  3201 111,EMandTL,M,,,,,13:00,14:50
+CPE  2600 151,Systems Progrmg,,T,,,,13:00,14:50
+ELE  2001 141,Elec Circuits 1,,,,R,,15:00,16:50
+ELE  3510 132,Digital Systems,,,W,,,15:00,16:50
+ELE  2001 121,Elec Circuits 1,,,,,F,8:00,9:50
+ELE  3101 111,Electronics I,,,,R,,8:00,9:50
+ELE  3101 121,Electronics I,,T,,,,10:00,11:50
+CPE  1500 121,Digital Logic,,,,R,,10:00,11:50
+ELE  2801 111,DigDgn/ProcProg,,,W,,,11:00,12:50
+ELE  1000 121,Intro to EE,,,,,F,12:00,13:50
+ELE  4980T121,QAnelecII,M,,W,,,13:00,13:50
+ELE  3201 111,EMandTL,,,,R,,13:00,13:50
+ELE  3101 131,Electronics I,,T,,,,13:00,14:50
+ELE  5320 111,ApplicationsDSP,,,,R,,15:00,16:50
+ELE  4320 111,ApplicationsDSP,,,,R,,15:00,16:50
+BME  4710 111,BME Instrmnt II,M,,,R,,8:00,8:50
+MTH  2610 001,Prob. for AS I,,T,W,R,F,9:00,9:50
+MEC  4901 124,Cap Design I,,,W,,F,10:00,10:50
+MEC  4810 121,ThermoFluidLab,,T,,R,,11:00,11:50
+MEC  4310 141,Auto Ctrl Sys,M,,,R,,13:00,13:50
+MEC  1602 171,IntrSldMdl&Dsgn,,T,,R,,14:00,14:50
+PER  5010 001,Adv. Physiology,M,,,R,,16:00,18:00
+PER  6210 001,Clinical ECP I,,T,,,,17:00,19:30
+BME  4901 111,BME Design I,,,,R,,10:00,11:50
+ELE  3401 112,Elec Pow Mach,,,,R,,14:00,15:50
+ELE  3401 111,Elec Pow Mach,,,W,,,14:00,15:50
+MEC  2010 001,Statics,M,,W,,F,8:00,8:50
+MTH  2140 002,Diff Eq,,T,,R,F,9:00,9:50
+CON  2011 113,Surveying,M,,,,,9:00,9:50
+CON  2011 112,Surveying,M,,,,,9:00,9:50
+CON  2011 111,Surveying,M,,,,,9:00,9:50
+CON  2011 114,Surveying,M,,,,,9:00,9:50
+MEC  4901 121,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 120,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 128,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 119,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 118,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 117,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 116,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 115,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 114,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 113,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 113,Cap Design I,,,W,,F,10:00,10:50
+MEC  4901 127,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 126,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 125,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 124,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 123,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 112,Cap Design I,M,,,,,10:00,10:50
+MEC  4901 111,Cap Design I,M,,,,,10:00,10:50
+MEC  3120 004,Fluid Mechanics,M,T,,,F,11:00,11:50
+MEC  3310 132,Instr & Measure,M,,,,F,13:00,13:50
+MEC  3310 131,Instr & Measure,M,,,,F,13:00,13:50
+PHL  3101 006,Ethics Eng/Mngr,M,,W,,F,14:00,14:50
+PHY  1110 181,Physics I,,,W,,F,15:00,15:50
+PHY  1110 182,Physics I,,,W,,F,15:00,15:50
+IDS  2020 001,Career Dvlpmt.,M,,,,,15:00,15:50
+IDS  2020 002,Career Dvlpmt.,M,,,,,17:00,17:50
+ELE  3510 111,Digital Systems,,,,R,,8:00,9:50
+CPE  1500 111,Digital Logic,,T,,,,8:00,9:50
+ELE  4980T111,QAnelecII,M,,W,,,9:00,9:50
+ELE  3510 121,Digital Systems,,,W,,,10:00,11:50
+ELE  3300 002,Signals Systems,M,,,R,F,11:00,11:50
+ELE  3510 131,Digital Systems,,,W,,,12:00,13:50
+ELE  1000 111,Intro to EE,,,,,F,12:00,13:50
+CPE  4610 111,Embedded Fab,,,,R,,13:00,14:50
+CPE  1500 131,Digital Logic,,T,,,,13:00,14:50
+CPE  1500 141,Digital Logic,,T,,,,15:00,16:50
+ELE  2001 111,Elec Circuits 1,,,,R,,8:00,9:50
+ELE  3300 001,Signals Systems,M,,W,,F,9:00,9:50
+ELE  2001 131,Elec Circuits 1,,T,,,,10:00,11:50
+ELE  1000 131,Intro to EE,,,,,F,12:00,13:50
+ELE  3300 003,Signals Systems,M,T,,R,,13:00,13:50
+ELE  2001 151,Elec Circuits 1,,T,,,,15:00,16:50
+ELE  3300 004,Signals Systems,M,,,R,F,15:00,15:50
+ELE  3300 005,Signals Systems,M,,,R,F,16:00,16:50
+ELE  2001 161,Elec Circuits 1,,,,R,,18:00,19:50
+BME  3710 111,BME Instrumnt I,M,,W,,,8:00,8:50
+MEC  4160 001,CFD,,,W,,,9:00,10:50
+MEC  4160 001,CFD,M,,,,F,9:00,9:50
+MTH  1110 004,Calculus I,M,T,,R,F,10:00,10:50
+MEC  1602 152,IntrSldMdl&Dsgn,,T,W,,,11:00,11:50
+MEC  1602 151,IntrSldMdl&Dsgn,,T,W,,,11:00,11:50
+BME  2310 121,BME Embedded,M,,,,F,11:00,11:50
+BME  3210 112,Medical Imaging,M,T,,,,14:00,14:50
+BME  3210 111,Medical Imaging,M,T,,,,14:00,14:50
+ELE  3101 131,Electronics I,,,,,F,14:00,14:50
+CPE  2600 161,Systems Progrmg,,,,R,,15:00,16:50
+ELE  2051 002,Circuits for ME,M,,W,,,16:00,17:15
+MEC  3120 001,Fluid Mechanics,M,T,,,F,8:00,8:50
+MEC  4674 001,Medical Apps,M,,W,,F,9:00,9:50
+MEC  5980 001,TPC Med Apps ME,M,,W,,F,9:00,9:50
+ELE  1000 111,Intro to EE,,T,,R,,9:00,9:50
+ELE  5440 001,Power Electr,M,T,,R,,10:00,10:50
+ELE  4440 001,Power Electr,M,T,,R,,10:00,10:50
+MEC  4901 123,Cap Design I,,,W,,F,10:00,10:50
+ELE  2801 111,DigDgn/ProcProg,,T,,R,F,11:00,11:50
+IND  4210 111,CAM/CNC/AM,M,T,,,,13:00,13:50
+MEC  3140 002,Thermodynamics2,M,T,,,F,14:00,14:50
+BME  2310 141,BME Embedded,,T,,,F,15:00,15:50
+MEC  4810 132,ThermoFluidLab,M,,W,,,15:00,15:50
+MEC  4810 131,ThermoFluidLab,M,,W,,,15:00,15:50
+MEC  4310 151,Auto Ctrl Sys,,T,,R,,16:00,16:50
+MEC  4310 152,Auto Ctrl Sys,,T,,R,,16:00,16:50
+MEC  3140 001,Thermodynamics2,M,T,,,F,8:00,8:50
+MEC  4060 121,FEA,,,W,,F,9:00,9:50
+BME  4710 121,BME Instrmnt II,M,,,R,,9:00,9:50
+MEC  3310 121,Instr & Measure,,T,,,F,10:00,10:50
+BME  2310 121,BME Embedded,,,W,,,10:00,11:50
+MEC  4060 131,FEA,M,,,R,,11:00,11:50
+IND  4901 114,IESeniorDesignI,,T,,,F,11:00,11:50
+IND  4901 113,IESeniorDesignI,,T,,,F,11:00,11:50
+IND  4901 112,IESeniorDesignI,,T,,,F,11:00,11:50
+IND  4901 111,IESeniorDesignI,,T,,,F,11:00,11:50
+MEC  4870 111,HVAC Design,M,,W,,,13:00,13:50
+MEC  4310 132,Auto Ctrl Sys,,T,,R,,13:00,13:50
+MEC  2010 006,Statics,,T,,R,F,14:00,14:50
+ELE  3101 131,Electronics I,M,,W,,,14:00,14:50
+MEC  4060 151,FEA,M,,,,F,15:00,15:50
+BME  2310 141,BME Embedded,,,,R,,15:00,16:50
+BME  3710 121,BME Instrumnt I,,T,W,,,15:00,15:50
+ELE  2001 161,Elec Circuits 1,,,,R,,17:00,17:50
+ELE  2001 161,Elec Circuits 1,,T,,,,17:00,18:50
+BME  4710 121,BME Instrmnt II,,,W,,,8:00,10:50
+BME  4710 111,BME Instrmnt II,,T,,,,8:00,10:50
+BME  3710 111,BME Instrumnt I,,,,R,,8:00,9:50
+BME  1010 111,Intro to BME,,,,,F,9:00,10:50
+BME  4901 112,BME Design I,,,,R,,10:00,11:50
+BME  1010 121,Intro to BME,,,,,F,11:00,12:50
+BME  1010 131,Intro to BME,,,W,,,13:00,14:50
+BME  3710 121,BME Instrumnt I,,,,R,,15:00,16:50
+RM   HOLD 00,RM Hold,,,,,F,9:00,12:50
+RM   HOLD 00,RM Hold,,,W,,,13:00,14:50
+BME  3610 001,Biomaterials,M,T,,,F,15:00,15:50
+BME  3610 002,Biomaterials,M,,W,,,17:30,18:45
+MEC  4810 112,ThermoFluidLab,,,,R,,8:00,9:50
+MEC  4810 111,ThermoFluidLab,,T,,,,8:00,9:50
+MEC  4810 121,ThermoFluidLab,,,W,,,11:00,12:50
+MEC  4810 132,ThermoFluidLab,,,,R,,15:00,16:50
+MEC  4810 131,ThermoFluidLab,,T,,,,15:00,16:50
+ARE  5421 111,DesBldgCtrlSys,,,,R,,17:00,18:50
+CVE  3301 112,PrincGeotechEng,,,,,F,8:00,9:50
+CVE  3301 111,PrincGeotechEng,,,W,,,8:00,9:50
+CAE  2980 812,Topics in CAE,,,,R,,8:00,9:50
+CAE  2980 811,Topics in CAE,,T,,,,8:00,9:50
+CAE  2980 821,Topics in CAE,,,,R,,13:00,14:50
+CAE  2980 822,Topics in CAE,,T,,,,14:00,15:50
+MEC  3310 112,Instr & Measure,,,W,,,8:00,9:50
+MEC  3310 111,Instr & Measure,,T,,,,8:00,9:50
+MEC  3310 121,Instr & Measure,,,,R,,10:00,11:50
+MEC  3310 141,Instr & Measure,,T,,,,13:00,14:50
+MEC  3310 132,Instr & Measure,,,,R,,13:00,14:50
+MEC  3310 131,Instr & Measure,,,W,,,13:00,14:50
+MEC  3310 152,Instr & Measure,,,W,,,15:00,16:50
+PER  6310 101,Perf. Sim. I,,,W,,,14:00,17:00
+NUR  3011 101,Skills Sim I,,,W,,,8:00,11:50
+NUR  2010 111,Health Assess,,,,,F,8:00,10:50
+NUR  2010 114,Health Assess,,,,,F,8:00,10:50
+NUR  2020 111,Person Nu Care,,,W,,,8:00,13:50
+NUR  3011 102,Skills Sim I,,,,R,,8:00,11:50
+NUR  2010 113,Health Assess,,,W,,,9:00,11:50
+NUR  4030 131,Practice Syn.,,T,,,,13:00,16:50
+NUR  4030 121,Practice Syn.,,T,,,,13:00,16:50
+NUR  4030 111,Practice Syn.,,T,,,,13:00,16:50
+NUR  2010 112,Health Assess,,,,,F,13:00,15:50
+NUR  3011 104,Skills Sim I,,,,R,,13:00,16:50
+NUR  3011 103,Skills Sim I,,,W,,,13:00,16:50
+NUR  2010 115,Health Assess,,,,,F,13:00,15:50
+MTH  1080 003,Precalculus,M,T,,R,F,9:00,9:50
+HON  2051 111,Honor Seminar I,,,W,,,10:00,11:50
+HON  2051 111,Honor Seminar I,M,,,R,,10:00,10:50
+COM  1001 012,College Writing,M,T,,,F,11:00,11:50
+HON  2980 001,HON topics,M,,W,,F,12:00,12:50
+UXD  4020 001,UX of Phy Prod,,T,,R,F,13:00,13:50
+MTH  1080 040,Precalculus,M,T,,R,F,14:00,14:50
+HON  2051 121,Honor Seminar I,,,W,,,15:00,16:50
+HON  2051 121,Honor Seminar I,,T,,,F,15:00,15:50
+ACS  4630 001,ActProbModels I,,T,,R,F,11:00,11:50
+BUS  2660 001,Marketing,,,W,,F,12:00,13:15
+MTH  1110 040,Calculus I,M,T,,R,F,14:00,14:50
+UXD  1001 002,Hum-Cntr Design,M,,W,R,,15:00,15:50
+PSY  2003 301,Org Psych,M,T,,,F,8:00,8:50
+CAE  2980 812,Topics in CAE,M,,,,,8:00,8:50
+CAE  2980 811,Topics in CAE,M,,,,,8:00,8:50
+BUS  2730 301,Bus Prog I,M,T,,R,,8:00,8:50
+CSC  1120 311,Data Structures,M,T,,,F,8:00,8:50
+TCM  2010 801,Interper Com,,,,,F,9:00,9:50
+PSY  2003 302,Org Psych,M,,,R,F,10:00,10:50
+COM  1001 801,College Writing,,,,,F,10:00,10:50
+BUS  3850 301,Topics in A.I.,M,,W,,F,10:00,10:50
+PSY  2010 801,Human Lang,,,,,F,11:00,11:50
+BUS  3420 301,Innov & Entrep,M,,W,,F,11:00,11:50
+BUS  4340 301,Entrep Mind,M,,W,,F,12:00,12:50
+TCM  1010 801,Argument & Pers,,,,,F,13:00,13:50
+NUR  7210 801,PMHNP TH2,,T,,,,14:00,16:50
+NUR  6210 801,ADVPHARM I,,T,,,,14:00,16:50
+NUR  6030 801,Research EBP,M,,,,,14:00,16:50
+CAE  2980 822,Topics in CAE,M,,,,,14:00,14:50
+CAE  2980 821,Topics in CAE,M,,,,,14:00,14:50
+UXD  3020 801,Design for Chat,,,,,F,14:00,14:50
+BUS  2330 301,Business Law,M,,W,,F,14:00,14:50
+COM  1001 802,College Writing,,,,,F,15:00,15:50
+CSC  5610 302,AI Tools,,T,,R,,17:00,18:50
+CSC  4981 831,TPC ML ProdSys,M,,W,,,17:00,17:50
+CSC  6605 301,ML Prod Sys,M,,W,,,17:00,18:50
+CSC  5610 301,AI Tools,,T,,R,,17:00,18:50
