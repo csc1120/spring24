@@ -3,9 +3,16 @@ package wk3;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.List;
 import java.util.stream.Stream;
 
 public class FileIO {
+
+    public void inSearchOfNSquared(List<String> words) {
+        for (int i = 0; i < words.size(); i++) {
+            System.out.println(words.get(i));
+        }
+    }
     public static void main(String[] args) throws IOException {
         String filename = "data/sections20230829.csv";
         try (Stream<String> stream = Files.lines(Path.of(filename))) {
