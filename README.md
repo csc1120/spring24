@@ -5,6 +5,7 @@ for CSC1120, Data Structures and Graphical Interfaces.
 # Announcements
 
 ## Week 4
+- Note earlier due date on week 5 homework - Due Tuesday night
 - Exam next week
 - Podcast location: https://csse.msoe.us/csc1120/podcast
 - Lunch with students 11:30am - 12:30pm Tuesday

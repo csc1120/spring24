@@ -1,4 +1,4 @@
-package wk3;
+package wk4;
 
 import java.io.IOException;
 import java.nio.file.Files;
