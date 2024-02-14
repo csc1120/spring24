@@ -4,6 +4,10 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 # Announcements
 
+## Week 5
+- [Exam archive](https://csse.msoe.us/taylor/exams)
+- Link to [week 5 quiz replacement](https://forms.office.com/r/HH5JpsgW4T)
+
 ## Week 4
 - Note earlier due date on week 5 homework - Due Tuesday night
 - Exam next week
