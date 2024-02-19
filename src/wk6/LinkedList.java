@@ -28,7 +28,7 @@ public class LinkedList<E> implements List<E> {
     }
 
     public boolean add(E element) {
-        Node<E> newGal = new Node(element);
+        Node<E> newGal = new Node<>(element);
         if (isEmpty()) {
             head = newGal;
         } else {
