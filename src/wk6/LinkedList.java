@@ -84,8 +84,9 @@ public class LinkedList<E> implements List<E> {
         if (index < 0 || index > size()) {
             throw new IndexOutOfBoundsException();
         }
-        E removedElement = null;
+        E removedElement;
         if (0 == index) {
+            removedElement = head.value;
             head = head.next;
         } else {
             Node<E> walker = head;

@@ -4,6 +4,10 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 # Announcements
 
+## Week 6
+- Lunch with students 11:30am - 12:30pm Tuesday
+- Comments on mid-term feedback
+
 ## Week 5
 - [Exam archive](https://csse.msoe.us/taylor/exams)
 - Link to [week 5 quiz replacement](https://forms.office.com/r/HH5JpsgW4T)
