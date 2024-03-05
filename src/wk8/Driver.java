@@ -3,9 +3,15 @@ package wk8;
 public class Driver {
 
     public static void main(String[] args) {
-        //int[] nums = {2, 3, 4, 5, 6, 7};
-        int[] nums = {};
-        System.out.println(binarySearch(nums, 0));
+        System.out.println(factorial(20));
+    }
+
+    private static long factorial(int i) {
+        long result = i;
+        if (i > 1) {
+            result *= factorial(i - 1);
+        }
+        return result;
     }
 
     public static boolean binarySearch(int[] sortedNumbers, int target) {

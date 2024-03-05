@@ -1,9 +1,6 @@
 package wk6;
 
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
+import java.util.*;
 
 public class LinkedList<E> implements List<E> {
     private Node<E> head;
@@ -42,9 +39,20 @@ public class LinkedList<E> implements List<E> {
     }
 
     @Override
-    public boolean contains(Object o) {
-        // TODO
-        return false;
+    public boolean contains(Object target) {
+        return contains(target, head);
+    }
+
+    private static boolean contains(Object target, Node node) {
+        boolean found = false;
+        if (node != null) {
+            if (Objects.equals(node.value, target)) {
+                found = true;
+            } else {
+                found = contains(target, node.next);
+            }
+        }
+        return found;
     }
 
     public void clear() {
@@ -53,8 +61,19 @@ public class LinkedList<E> implements List<E> {
 
     @Override
     public E get(int index) {
-        // TODO
-        return null;
+        if (index < 0 || index >= size()) {
+            throw new IndexOutOfBoundsException("Index: " + index + " size: " + size());
+        }
+        return get(index, head);
+    }
+
+    private E get(int index, Node<E> node) {
+        return index == 0 ? node.value : get(index - 1, node.next);
+//        E returnValue = node.value;
+//        if (index > 0) {
+//            returnValue = get(index - 1, node.next);
+//        }
+//        return returnValue;
     }
 
     @Override
