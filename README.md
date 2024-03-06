@@ -5,6 +5,7 @@ for CSC1120, Data Structures and Graphical Interfaces.
 # Announcements
 
 ## Week 8
+- Feedback for lab is in Canvas for lab 7
 - Tuesday: Lunch with students 11:30am - 12:30pm and 2-4pm student hours
 - Wednesday: lecture on recursion instead of activities
 - Thursday: lab as usual

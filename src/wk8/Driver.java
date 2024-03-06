@@ -14,6 +14,26 @@ public class Driver {
         return result;
     }
 
+    public static boolean binarySearchRecursive(int[] sortedNumbers, int target) {
+        return binarySearchRecursive(sortedNumbers, target, 0, sortedNumbers.length);
+    }
+
+    private static boolean binarySearchRecursive(int[] sortedNumbers, int target,
+                                                 int front, int back) {
+        boolean found = false;
+        int middle = (front + back) / 2;
+        if (back != front) {
+            if (target > sortedNumbers[middle]) {
+                found = binarySearchRecursive(sortedNumbers, target, middle + 1, back);
+            } else if (target < sortedNumbers[middle]) {
+                found = binarySearchRecursive(sortedNumbers, target, front, middle);
+            } else {
+                found = true;
+            }
+        }
+        return found;
+    }
+
     public static boolean binarySearch(int[] sortedNumbers, int target) {
        boolean found = false;
        int front = 0;
