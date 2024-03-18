@@ -4,6 +4,11 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 # Announcements
 
+## Week 9
+- I will be away at a conference Tuesday - Friday of week 11
+- Schedule for weeks 10 and 11 are swapped (Exam II on Friday, April 5)
+- Recommend you start work on Lab 9 on Stacks
+
 ## Week 8
 - Feedback for lab is in Canvas for lab 7
 - Tuesday: Lunch with students 11:30am - 12:30pm and 2-4pm student hours
