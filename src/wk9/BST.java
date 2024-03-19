@@ -64,7 +64,38 @@ public class BST<E extends Comparable> {
     }
 
     public boolean contains(Object target) {
-        return false;
+        return contains(target, root);
+    }
+
+    private boolean contains(Object target, Node<E> subroot) {
+        boolean found = false;
+        if (subroot != null && target instanceof Comparable<?>) {
+            int comparison = subroot.value.compareTo(target);
+            if (comparison == 0) {
+                found = true;
+            } else if (comparison < 0) {
+                found = contains(target, subroot.rightKid);
+            } else {
+                found = contains(target, subroot.leftKid);
+            }
+        }
+        return found;
+    }
+
+    public boolean containsNonRecursive(Object target) {
+        Node<E> walker = root;
+        boolean found = false;
+        while (walker != null && !found) {
+            int comparison = walker.value.compareTo(target);
+            if (comparison == 0) {
+                found = true;
+            } else if (comparison < 0) {
+                walker = walker.rightKid;
+            } else {
+                walker = walker.leftKid;
+            }
+        }
+        return found;
     }
 
     public boolean isEmpty() {
@@ -72,6 +103,20 @@ public class BST<E extends Comparable> {
     }
 
     public int size() {
-        return 0;
+        return size(root);
+    }
+
+    private int size(Node<E> subroot) {
+        int size = 0;
+        if (subroot != null) {
+            size = 1 + size(subroot.leftKid) + size(subroot.rightKid);
+        }
+        return size;
     }
 }
+
+
+
+
+
+
