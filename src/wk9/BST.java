@@ -8,17 +8,23 @@ public class BST<E extends Comparable<? super E>> {
 
     private final static class Node<E> {
         E value;
+        Node<E> parent;
         Node<E> leftKid;
         Node<E> rightKid;
 
-        Node(E value, Node<E> leftKid, Node<E> rightKid) {
+        Node(E value, Node<E> parent, Node<E> leftKid, Node<E> rightKid) {
             this.value = value;
+            this.parent = parent;
             this.leftKid = leftKid;
             this.rightKid = rightKid;
         }
 
+        Node(E value, Node<E> parent) {
+            this(value, parent, null, null);
+        }
+
         Node(E value) {
-            this(value, null, null);
+            this(value, null, null, null);
         }
     }
 
@@ -44,7 +50,7 @@ public class BST<E extends Comparable<? super E>> {
         if (element == null) {
             throw new IllegalArgumentException("I refuse to store null");
         }
-        boolean changed = false;
+        boolean changed;
         if (isEmpty()) {
             root = new Node<>(element);
             changed = true;
@@ -56,7 +62,7 @@ public class BST<E extends Comparable<? super E>> {
 
     private boolean add(E element, Node<E> subroot) {
         boolean changed = false;
-        Node<E> kid = new Node<>(element);
+        Node<E> kid = new Node<>(element, subroot);
 
         if (element.compareTo(subroot.value) < 0) {
             if (subroot.leftKid == null) {
