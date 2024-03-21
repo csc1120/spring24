@@ -1,6 +1,9 @@
 package wk9;
 
-public class BST<E extends Comparable> {
+import java.util.Arrays;
+import java.util.function.Consumer;
+
+public class BST<E extends Comparable<? super E>> {
     private Node<E> root;
 
     private final static class Node<E> {
@@ -21,6 +24,20 @@ public class BST<E extends Comparable> {
 
     public BST() {
         root = null;
+    }
+
+    public BST(E[] values) {
+        Arrays.sort(values);
+        addSorted(values, 0, values.length);
+    }
+
+    private void addSorted(E[] values, int start, int end) {
+        if (start < end) {
+            int middle = (start + end) / 2;
+            add(values[middle]);
+            addSorted(values, start, middle);
+            addSorted(values, middle + 1, end);
+        }
     }
 
     public boolean add(E element) {
@@ -64,29 +81,36 @@ public class BST<E extends Comparable> {
     }
 
     public boolean contains(Object target) {
-        return contains(target, root);
+        if (root == null) {
+            return false;
+        }
+        return target.getClass().isAssignableFrom(root.value.getClass())
+                && contains((E) target, root);
     }
 
-    private boolean contains(Object target, Node<E> subroot) {
+    private boolean contains(E target, Node<E> subroot) {
         boolean found = false;
-        if (subroot != null && target instanceof Comparable<?>) {
-            int comparison = subroot.value.compareTo(target);
+        if (subroot != null) {
+            int comparison = target.compareTo(subroot.value);
             if (comparison == 0) {
                 found = true;
             } else if (comparison < 0) {
-                found = contains(target, subroot.rightKid);
-            } else {
                 found = contains(target, subroot.leftKid);
+            } else {
+                found = contains(target, subroot.rightKid);
             }
         }
         return found;
     }
 
     public boolean containsNonRecursive(Object target) {
+        if (!target.getClass().isAssignableFrom(root.value.getClass())) {
+            return false;
+        }
         Node<E> walker = root;
         boolean found = false;
         while (walker != null && !found) {
-            int comparison = walker.value.compareTo(target);
+            int comparison = walker.value.compareTo((E) target);
             if (comparison == 0) {
                 found = true;
             } else if (comparison < 0) {
@@ -113,10 +137,64 @@ public class BST<E extends Comparable> {
         }
         return size;
     }
+
+    @Override
+    public String toString() {
+        return toString(root, 0);
+    }
+
+    private String toString(Node<E> subroot, int level) {
+        final int spacing = 5;
+        return subroot == null ? ""
+                : toString(subroot.rightKid, level + 1)
+                + " ".repeat(level * spacing) + subroot.value + "\n"
+                + toString(subroot.leftKid, level + 1);
+    }
+
+    public int height() {
+        return height(root) - 1;
+    }
+
+    private int height(Node<E> subroot) {
+        return subroot == null ? 0
+                : 1 + Math.max(height(subroot.leftKid), height(subroot.rightKid));
+    }
+
+    public void orderedPrint() {
+        orderedPrint(root);
+    }
+
+    private void orderedPrint(Node<E> subroot) {
+        if (subroot != null) {
+            orderedPrint(subroot.leftKid);
+            System.out.println(subroot.value);
+            orderedPrint(subroot.rightKid);
+        }
+    }
+
+    public void preOrder(Consumer<E> consumer) {
+        preOrder(consumer, root);
+    }
+
+    private void preOrder(Consumer<E> consumer, Node<E> subroot) {
+        if (subroot != null) {
+            consumer.accept(subroot.value);
+            preOrder(consumer, subroot.leftKid);
+            preOrder(consumer, subroot.rightKid);
+        }
+    }
+
+    public void postOrder(Consumer<E> consumer) {
+        postOrder(consumer, root);
+    }
+
+    private void postOrder(Consumer<E> consumer, Node<E> subroot) {
+        if (subroot == null) {
+            return;
+        }
+
+        postOrder(consumer, subroot.leftKid);
+        postOrder(consumer, subroot.rightKid);
+        consumer.accept(subroot.value);
+    }
 }
-
-
-
-
-
-
