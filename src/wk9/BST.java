@@ -1,6 +1,8 @@
 package wk9;
 
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.Iterator;
 import java.util.Set;
 import java.util.function.Consumer;
 
@@ -62,6 +64,31 @@ public class BST<E extends Comparable<? super E>> implements Set<E> {
         return changed;
     }
 
+    @Override
+    public boolean remove(Object o) {
+        return false;
+    }
+
+    @Override
+    public boolean containsAll(Collection<?> c) {
+        return false;
+    }
+
+    @Override
+    public boolean addAll(Collection<? extends E> c) {
+        return false;
+    }
+
+    @Override
+    public boolean retainAll(Collection<?> c) {
+        return false;
+    }
+
+    @Override
+    public boolean removeAll(Collection<?> c) {
+        return false;
+    }
+
     private boolean add(E element, Node<E> subroot) {
         boolean changed = false;
         Node<E> kid = new Node<>(element, subroot);
@@ -96,6 +123,21 @@ public class BST<E extends Comparable<? super E>> implements Set<E> {
         }
         return target.getClass().isAssignableFrom(root.value.getClass())
                 && contains((E) target, root);
+    }
+
+    @Override
+    public Iterator<E> iterator() {
+        return null;
+    }
+
+    @Override
+    public Object[] toArray() {
+        return new Object[0];
+    }
+
+    @Override
+    public <T> T[] toArray(T[] a) {
+        return null;
     }
 
     private boolean contains(E target, Node<E> subroot) {
