@@ -1,9 +1,10 @@
 package wk9;
 
 import java.util.Arrays;
+import java.util.Set;
 import java.util.function.Consumer;
 
-public class BST<E extends Comparable<? super E>> {
+public class BST<E extends Comparable<? super E>> implements Set<E> {
     private Node<E> root;
 
     private final static class Node<E> {
@@ -46,6 +47,7 @@ public class BST<E extends Comparable<? super E>> {
         }
     }
 
+    @Override
     public boolean add(E element) {
         if (element == null) {
             throw new IllegalArgumentException("I refuse to store null");
@@ -82,10 +84,12 @@ public class BST<E extends Comparable<? super E>> {
         return changed;
     }
 
+    @Override
     public void clear() {
         root = null;
     }
 
+    @Override
     public boolean contains(Object target) {
         if (root == null) {
             return false;
@@ -128,10 +132,12 @@ public class BST<E extends Comparable<? super E>> {
         return found;
     }
 
+    @Override
     public boolean isEmpty() {
         return root == null;
     }
 
+    @Override
     public int size() {
         return size(root);
     }
