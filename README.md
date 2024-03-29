@@ -5,7 +5,7 @@ for CSC1120, Data Structures and Graphical Interfaces.
 # Announcements
 
 ## Week 10
-- No exam this week. Exam will be April 5 (Friday, week 11)
+- No exam this week. Exam will be **April 4 (Thursday, week 11)** ~~April 5 (Friday, week 11)~~
 - 3-4pm student hour booked. Will be available for questions 11am-3pm (if you can find me)
 - 11:30am-12:30pm in CC
  
