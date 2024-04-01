@@ -4,6 +4,14 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 # Announcements
 
+## Week 11
+- Monday - Review
+- Tuesday - no class, do practice exam as review
+- Wednesday - **lab in DH449**
+- Thursday - **Exam in ITC**
+- Friday - **lab in DH449**
+- Will be available via email and Teams but response time may be slower
+
 ## Week 10
 - No exam this week. Exam will be **April 4 (Thursday, week 11)** ~~April 5 (Friday, week 11)~~
 - 3-4pm student hour booked. Will be available for questions 11am-3pm (if you can find me)

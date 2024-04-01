@@ -140,6 +140,26 @@ public class BST<E extends Comparable<? super E>> implements Set<E> {
         return null;
     }
 
+    public int countLeaves() {
+        return countLeaves(root);
+    }
+
+    private int countLeaves(Node<E> subroot) {
+        int count = 0;
+        if (subroot != null) {
+            if (isLeaf(subroot)) {
+                count = 1;
+            } else {
+                count = countLeaves(subroot.leftKid) + countLeaves(subroot.rightKid);
+            }
+        }
+        return count;
+    }
+
+    private boolean isLeaf(Node<E> node) {
+        return node == null ? false : (node.leftKid == null && node.rightKid == null);
+    }
+
     private boolean contains(E target, Node<E> subroot) {
         boolean found = false;
         if (subroot != null) {
