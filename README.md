@@ -4,6 +4,15 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 # Announcements
 
+## Week 13
+- Quiz: Review portion: lab 12 related, New portion: time/space complexity
+- Consider completing homework prior to lab
+- Friday: Activity day, work on lab 13
+
+## Week 12
+- Monday: 1pm student hour shifted to 3pm... please let me know if that is problematic
+- Tuesday: not available for 2-3pm student hour, may have time after 4pm
+
 ## Week 11
 - Monday - Review
 - Tuesday - no class, do practice exam as review
