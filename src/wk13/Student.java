@@ -1,8 +1,6 @@
 package wk13;
 
-import java.util.Objects;
-
-public class Student {
+public class Student implements Cloneable {
     private String lastname;
     private String firstname;
     final private int id;
@@ -22,6 +20,18 @@ public class Student {
         lastname = names[1];
         this.address = address;
     }
+
+    public Object clone() {
+        Student student = null;
+        try {
+            student = (Student) super.clone();
+        } catch (CloneNotSupportedException e) {
+            student = new Student(this);
+        }
+        student.address = (Address) this.address.clone();
+        return student;
+    }
+
 
     public Student(Student student) {
         firstname = new String(student.firstname);

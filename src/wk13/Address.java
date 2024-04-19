@@ -14,7 +14,13 @@ public class Address implements Cloneable {
     }
 
     public Object clone() {
-        return null;
+        Address address = null;
+        try {
+            address = (Address) super.clone();
+        } catch (CloneNotSupportedException e) {
+            address = new Address(street, city, zipcode);
+        }
+        return address;
     }
 
     public String getStreet() {
