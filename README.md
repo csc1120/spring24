@@ -4,6 +4,12 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 # Announcements
 
+## Week 14
+- Lab 13 due Wednesday night (1 day later)
+- Lab 14 due Thursday night (of week 15)
+- Lunch 11:30am-12:30pm Tuesday
+- Conflict with 2-4pm student hours today, shifted to 8am-10am tomorrow
+
 ## Week 13
 - Quiz: Review portion: lab 12 related, New portion: time/space complexity
 - Consider completing homework prior to lab
