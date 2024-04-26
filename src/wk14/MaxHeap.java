@@ -39,7 +39,7 @@ public class MaxHeap {
     }
 
     public int extractMax() {
-
+        return 0;
     }
 
     public int getMax() {
