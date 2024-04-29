@@ -2,6 +2,7 @@ package wk14;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.NoSuchElementException;
 
 public class MaxHeap {
     private ArrayList<Integer> values;
@@ -9,15 +10,15 @@ public class MaxHeap {
         values = new ArrayList<>();
     }
 
-    private int parent(int index) {
+    private static int parent(int index) {
         return (index - 1) /2;
     }
 
-    private int left(int index) {
+    private static int left(int index) {
         return 2 * index + 1;
     }
 
-    private int right(int index) {
+    private static int right(int index) {
         return left(index) + 1;
     }
 
@@ -39,10 +40,39 @@ public class MaxHeap {
     }
 
     public int extractMax() {
-        return 0;
+        if (isEmpty()) {
+            throw new NoSuchElementException("Heap is empty");
+        }
+        Collections.swap(values, 0, size() - 1);
+        int max = values.removeLast();
+        int index = 0;
+        boolean doneSwapping = false;
+        while (!doneSwapping && indexValid(index)) {
+            if (indexValid(right(index)) && values.get(right(index)) > values.get(left(index))) {
+                if (values.get(index) < values.get(right(index))) {
+                    Collections.swap(values, index, right(index));
+                    index = right(index);
+                } else {
+                    doneSwapping = true;
+                }
+            } else if (indexValid(left(index)) && values.get(index) < values.get(left(index))) {
+                Collections.swap(values, index, left(index));
+                index = left(index);
+            } else {
+                doneSwapping = true;
+            }
+        }
+        return max;
+    }
+
+    private boolean indexValid(int index) {
+        return index < size();
     }
 
     public int getMax() {
+        if (isEmpty()) {
+            throw new NoSuchElementException("Heap is empty");
+        }
         return values.getFirst();
     }
 }
