@@ -6,10 +6,10 @@ for CSC1120, Data Structures and Graphical Interfaces.
 
 ## Week 15
 - Monday - How to pick a data structure
-- Tuesday - review
+- Tuesday - review (JavaFX, Functional)
 - Wednesday - remaining lab 14 questions (optional if lab has been submitted)
 - Thursday - practice exam
-- Friday - review
+- Friday - review (data structures, O())
 
 ## Week 14
 - Lab 13 due Wednesday night (1 day later)

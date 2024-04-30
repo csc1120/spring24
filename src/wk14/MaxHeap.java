@@ -2,12 +2,13 @@ package wk14;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
 public class MaxHeap {
-    private ArrayList<Integer> values;
+    private LinkedList<Integer> values;
     public MaxHeap() {
-        values = new ArrayList<>();
+        values = new LinkedList<>();
     }
 
     private static int parent(int index) {
